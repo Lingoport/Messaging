@@ -1,5 +1,4 @@
 {
-  "seed": "seed",
   "F2D_message_1": "message",
   "F2D_Searchal_10": "Search all photos",
   "F2D_Search_11": "Search",
@@ -10,6 +9,5 @@
   "F2D_Login_8": "Log in",
   "F2D_Registra_3": "Registration",
   "F2D_signup_4": "sign up",
-  "F2D_Bysignin_5": "By signing up, you agree to Photo’s Terms of Service and ",
-  "": "Privacy Policy."
+  "F2D_Bysignin_5": "By signing up, you agree to Photo’s Terms of Service and Privacy Policy."
 }
