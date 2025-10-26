@@ -1,1 +1,1 @@
-locales/de/generated.json
+locales/eo/generated.json
