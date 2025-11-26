@@ -1,8 +1,12 @@
 {
-  "F9220_Register_1": "S'inscrire Dev Mod",
+  "F9220_Register_1": "S'inscrire",
   "F9220_next_2": "suivant",
   "F9220_Login_3": "Se connecter",
   "F9220_Signin_4": "Inscrivez-vous",
   "F9220_Register_5": "Inscription mise à jour",
-  "F9220_Searchal_6": "Rechercher toutes les photos"
+  "F9220_Searchal_6": "Rechercher parmi toutes les photos",
+  "F9220_Register_7": "S'inscrire",
+  "F9220_dogs_8": "chiens",
+  "F9220_allresul_9": "tous les résultats",
+  "F9220_seemore_10": "Voir plus"
 }
