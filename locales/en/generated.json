@@ -10,5 +10,17 @@
   "B9200_HelloWor_1": "Hello CTX 1!",
   "B9200_TestStri_2": "TestString2",
   "B9200_BrandNew_3": "Brand New String",
-  "B9200_Thisisat_4": "This is a test"
+  "B9200_Thisisat_4": "This is a test",
+  "F9220_Login_3": "Log in",
+  "F9220_Searchal_6": "Search among all the photos",
+  "F9220_dogs_8": "dogs",
+  "F9220_allresul_9": "all results",
+  "F9220_seemore_10": "see more",
+  "F9220_followja_11": "follow jane",
+  "F9220_message_12": "message",
+  "F9220_Register_1": "Register",
+  "F9220_next_2": "next",
+  "F9220_Register_7": "Search",
+  "F9220_Register_5": "Search",
+  "F9220_Signin_4": "Sign in"
 }
