@@ -19,5 +19,7 @@
   "FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt": "Alt",
   "FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G": "G",
   "FigmaBasics.1Frames.Tryitout": "Ausprobieren",
-  "FigmaBasics.1Frames.SelecttheF": "Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen."
+  "FigmaBasics.1Frames.SelecttheF": "Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.",
+  "TESTCHANGE": "1",
+  "TESTCHANGE2": "Benutzerdefinierte Größen\\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswählen und den Cursor auf die gewünschte Größe ziehen."
 }

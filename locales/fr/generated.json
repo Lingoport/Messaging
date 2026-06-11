@@ -19,5 +19,7 @@
   "FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt": "Alt",
   "FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G": "G",
   "FigmaBasics.1Frames.Tryitout": "Essayez-le",
-  "FigmaBasics.1Frames.SelecttheF": "Sélectionnez l\\'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre."
+  "FigmaBasics.1Frames.SelecttheF": "Sélectionnez l\\'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre.",
+  "TESTCHANGE": "1",
+  "TESTCHANGE2": "Tailles personnalisées\\nCréez des cadres de taille personnalisée en sélectionnant l\\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\\'à la taille souhaitée."
 }
