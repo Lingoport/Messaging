@@ -1,3 +1,23 @@
 {
-  "to.be.removed": "Supprimer"
+  "to.be.removed": "Supprimer",
+  "FigmaBasics.1Frames.1": "1",
+  "FigmaBasics.1Frames.Frames": "Cadres",
+  "FigmaBasics.1Frames.FramesinFi": "Les cadres dans Figma correspondent à ce que vous connaissez peut-être sous le nom de plans de travail dans d\\'autres outils de conception. Les cadres sont un élément fondamental de vos designs qui servent de conteneur de niveau supérieur pour la plupart des éléments que vous créez dans Figma. Il existe plusieurs façons de créer des cadres dans Figma :",
+  "FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234": "165 × 234",
+  "FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame": "Cadre",
+  "FigmaBasics.1Frames.CustomSizes.Customsize": "Tailles personnalisées\\nCréez des cadres de taille personnalisée en sélectionnant l\\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\\'à la taille souhaitée.",
+  "FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi": "macOS et raccourci Win",
+  "FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F": "F",
+  "FigmaBasics.1Frames.PresetSizes.Presetsize": "Tailles prédéfinies\\nCréez des cadres avec des tailles prédéfinies, par ex. iPhone X, en sélectionnant le préréglage dans le panneau Propriétés à droite.",
+  "FigmaBasics.1Frames.ExistingElements.Existingel": "Éléments existants\\nCréez des cadres à partir d\\'éléments existants sur le canevas en faisant un clic droit et en sélectionnant Encadrer la sélection.",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort": "Raccourci macOS",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.Group21": "⌥",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.Group22": "⌘",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G": "G",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu": "Raccourci gagnant",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl": "Ctrl",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt": "Alt",
+  "FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G": "G",
+  "FigmaBasics.1Frames.Tryitout": "Essayez-le",
+  "FigmaBasics.1Frames.SelecttheF": "Sélectionnez l\\'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre."
 }
