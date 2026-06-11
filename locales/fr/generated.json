@@ -21,5 +21,8 @@
   "FigmaBasics.1Frames.Tryitout": "Essayez-le",
   "FigmaBasics.1Frames.SelecttheF": "Sélectionnez l\\'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre.",
   "TESTCHANGE": "1",
-  "TESTCHANGE2": "Tailles personnalisées\\nCréez des cadres de taille personnalisée en sélectionnant l\\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\\'à la taille souhaitée."
+  "TESTCHANGE2": "Tailles personnalisées\\nCréez des cadres de taille personnalisée en sélectionnant l\\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\\'à la taille souhaitée.",
+  "FigmaBasics.1Frames.TESTCHANGE3": "Les cadres dans Figma correspondent à ce que vous connaissez peut-être sous le nom de plans de travail dans d\\'autres outils de conception. Les cadres sont un élément fondamental de vos designs qui servent de conteneur de niveau supérieur pour la plupart des éléments que vous créez dans Figma. Il existe plusieurs façons de créer des cadres dans Figma :",
+  "FigmaBasics.1Frames.TESTCHANGE4.Presetsize": "Tailles prédéfinies\\nCréez des cadres avec des tailles prédéfinies, par ex. iPhone X, en sélectionnant le préréglage dans le panneau Propriétés à droite.",
+  "FigmaBasics.TESTCHANGE5.SelecttheF": "Sélectionnez l\\'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre."
 }

@@ -21,5 +21,8 @@
   "FigmaBasics.1Frames.Tryitout": "Ausprobieren",
   "FigmaBasics.1Frames.SelecttheF": "Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.",
   "TESTCHANGE": "1",
-  "TESTCHANGE2": "Benutzerdefinierte Größen\\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswählen und den Cursor auf die gewünschte Größe ziehen."
+  "TESTCHANGE2": "Benutzerdefinierte Größen\\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswählen und den Cursor auf die gewünschte Größe ziehen.",
+  "FigmaBasics.1Frames.TESTCHANGE3": "Frames in Figma sind das, was du in anderen Design-Tools als Artboards kennst. Frames sind ein grundlegendes Element für deine Designs und dienen als Container der obersten Ebene für die meisten Inhalte, die du in Figma erstellst. Es gibt verschiedene Möglichkeiten, Frames in Figma zu erstellen:",
+  "FigmaBasics.1Frames.TESTCHANGE4.Presetsize": "Voreingestellte Größen\\nErstellen Sie Frames mit voreingestellten Größen, z. B. iPhone X, indem Sie die Voreinstellung im Eigenschaften-Panel auf der rechten Seite auswählen.",
+  "FigmaBasics.TESTCHANGE5.SelecttheF": "Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen."
 }

@@ -21,5 +21,8 @@
   "FigmaBasics.1Frames.Tryitout": "Try it out",
   "FigmaBasics.1Frames.SelecttheF": "Select the Frame Tool              and click and drag along the dotted line to create a new frame.",
   "TESTCHANGE": "1",
-  "TESTCHANGE2": "Custom sizes\\nCreate custom sized frames by selecting the frame tool and click and drag your cursor to the desired size."
+  "TESTCHANGE2": "Custom sizes\\nCreate custom sized frames by selecting the frame tool and click and drag your cursor to the desired size.",
+  "FigmaBasics.1Frames.TESTCHANGE3": "Frames in Figma are what you may think of as artboards in other design tools. Frames are a foundational element for your designs that act as a top-level container for most things you create in Figma. There are a few different ways to create frames in Figma:",
+  "FigmaBasics.1Frames.TESTCHANGE4.Presetsize": "Preset sizes\\nCreate frames with preset sizes, e.g. iPhone X, by selecting the preset in the Properties panel on the right-hand side.",
+  "FigmaBasics.TESTCHANGE5.SelecttheF": "Select the Frame Tool              and click and drag along the dotted line to create a new frame."
 }
