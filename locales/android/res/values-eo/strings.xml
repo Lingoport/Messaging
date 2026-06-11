@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
   <string name="delete_me">[Ðéļéţé ɱé----------- П國カ내]</string>
+  <string translatable="true" name="FigmaBasics.1Frames.1"><![CDATA[1]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.Frames"><![CDATA[[Ƒŕåɱéš----- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.FramesinFi"><![CDATA[[Ƒŕåɱéš îñ Ƒîĝɱå åŕé ŵĥåţ ýöû ɱåý ţĥîñķ öƒ åš åŕţƀöåŕðš îñ öţĥéŕ ðéšîĝñ ţööļš. Ƒŕåɱéš åŕé å ƒöûñðåţîöñåļ éļéɱéñţ ƒöŕ ýöûŕ ðéšîĝñš ţĥåţ åçţ åš å ţöþ-ļéṽéļ çöñţåîñéŕ ƒöŕ ɱöšţ ţĥîñĝš ýöû çŕéåţé îñ Ƒîĝɱå. Ţĥéŕé åŕé å ƒéŵ ðîƒƒéŕéñţ ŵåýš ţö çŕéåţé ƒŕåɱéš îñ Ƒîĝɱå:---------------------------------------------------------------------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234"><![CDATA[[165 Ã 234------------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame"><![CDATA[[Ƒŕåɱé--- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Customsize"><![CDATA[[Çûšţöɱ šîžéš\nÇŕéåţé çûšţöɱ šîžéð ƒŕåɱéš ƀý šéļéçţîñĝ ţĥé ƒŕåɱé ţööļ åñð çļîçķ åñð ðŕåĝ ýöûŕ çûŕšöŕ ţö ţĥé ðéšîŕéð šîžé.----------------------------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi"><![CDATA[[ɱåçÖŠ åñð Ŵîñ šĥöŕţçûţ---------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F"><![CDATA[Ƒ]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.PresetSizes.Presetsize"><![CDATA[[Þŕéšéţ šîžéš\nÇŕéåţé ƒŕåɱéš ŵîţĥ þŕéšéţ šîžéš, é.ĝ. îÞĥöñé Ẋ, ƀý šéļéçţîñĝ ţĥé þŕéšéţ îñ ţĥé Þŕöþéŕţîéš þåñéļ öñ ţĥé ŕîĝĥţ-ĥåñð šîðé.-------------------------------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Existingel"><![CDATA[[Éẋîšţîñĝ éļéɱéñţš\nÇŕéåţé ƒŕåɱéš ƒŕöɱ éẋîšţîñĝ éļéɱéñţš öñ ţĥé çåñṽåš ƀý ŕîĝĥţ-çļîçķîñĝ åñð šéļéçţîñĝ Ƒŕåɱé Šéļéçţîöñ.---------------------------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort"><![CDATA[[ɱåçÖŠ šĥöŕţçûţ------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21"><![CDATA[[â¥ П國カ]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22"><![CDATA[[â П國カ]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G"><![CDATA[Ĝ]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu"><![CDATA[[Ŵîñ šĥöŕţçûţ----- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl"><![CDATA[[Çţŕļ- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt"><![CDATA[[Åļţ П國カ]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G"><![CDATA[Ĝ]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.Tryitout"><![CDATA[[Ţŕý îţ öûţ------------- П國カ내]]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.SelecttheF"><![CDATA[[Šéļéçţ ţĥé Ƒŕåɱé Ţööļ              åñð çļîçķ åñð ðŕåĝ åļöñĝ ţĥé ðöţţéð ļîñé ţö çŕéåţé å ñéŵ ƒŕåɱé.---------------------- П國カ내]]]></string>
 </resources>
