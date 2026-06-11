@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
   <string name="delete_me">Mich löschen</string>
+  <string name="FigmaBasics.1Frames.1" translatable="true"><![CDATA[1]]></string>
+  <string name="FigmaBasics.1Frames.Frames" translatable="true"><![CDATA[Rahmen]]></string>
+  <string name="FigmaBasics.1Frames.FramesinFi" translatable="true"><![CDATA[Frames in Figma sind das, was du in anderen Design-Tools als Artboards kennst. Frames sind ein grundlegendes Element fÃ¼r deine Designs und dienen als Container der obersten Ebene fÃ¼r die meisten Inhalte, die du in Figma erstellst. Es gibt verschiedene MÃ¶glichkeiten, Frames in Figma zu erstellen:]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234" translatable="true"><![CDATA[165 Ã 234]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame" translatable="true"><![CDATA[Rahmen]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Customsize" translatable="true"><![CDATA[Benutzerdefinierte GrÃ¶Ãen\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswÃ¤hlen und den Cursor auf die gewÃ¼nschte GrÃ¶Ãe ziehen.]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS- und Windows-TastenkÃ¼rzel]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F" translatable="true"><![CDATA[F]]></string>
+  <string name="FigmaBasics.1Frames.PresetSizes.Presetsize" translatable="true"><![CDATA[Voreingestellte GrÃ¶Ãen\nErstellen Sie Frames mit voreingestellten GrÃ¶Ãen, z. B. iPhone X, indem Sie die Voreinstellung im Eigenschaften-Panel auf der rechten Seite auswÃ¤hlen.]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Existingel" translatable="true"><![CDATA[Vorhandene Elemente\nErstellen Sie Frames aus vorhandenen Elementen auf der ArbeitsflÃ¤che, indem Sie mit der rechten Maustaste klicken und âAuswahl einrahmen" wÃ¤hlen.]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort" translatable="true"><![CDATA[macOS-Tastenkombination]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21" translatable="true"><![CDATA[â¥]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22" translatable="true"><![CDATA[â]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G" translatable="true"><![CDATA[G]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu" translatable="true"><![CDATA[Gewinn-VerknÃ¼pfung]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl" translatable="true"><![CDATA[Strg]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt" translatable="true"><![CDATA[Alt]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G" translatable="true"><![CDATA[G]]></string>
+  <string name="FigmaBasics.1Frames.Tryitout" translatable="true"><![CDATA[Ausprobieren]]></string>
+  <string name="FigmaBasics.1Frames.SelecttheF" translatable="true"><![CDATA[WÃ¤hlen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></string>
 </resources>

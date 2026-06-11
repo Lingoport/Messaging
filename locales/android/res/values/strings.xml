@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
   <string name="delete_me">Delete me</string>
+  <string name="FigmaBasics.1Frames.1" translatable="true"><![CDATA[1]]></string>
+  <string name="FigmaBasics.1Frames.Frames" translatable="true"><![CDATA[Frames]]></string>
+  <string name="FigmaBasics.1Frames.FramesinFi" translatable="true"><![CDATA[Frames in Figma are what you may think of as artboards in other design tools. Frames are a foundational element for your designs that act as a top-level container for most things you create in Figma. There are a few different ways to create frames in Figma:]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234" translatable="true"><![CDATA[165 Ã 234]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame" translatable="true"><![CDATA[Frame]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Customsize" translatable="true"><![CDATA[Custom sizes\nCreate custom sized frames by selecting the frame tool and click and drag your cursor to the desired size.]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS and Win shortcut]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F" translatable="true"><![CDATA[F]]></string>
+  <string name="FigmaBasics.1Frames.PresetSizes.Presetsize" translatable="true"><![CDATA[Preset sizes\nCreate frames with preset sizes, e.g. iPhone X, by selecting the preset in the Properties panel on the right-hand side.]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Existingel" translatable="true"><![CDATA[Existing elements\nCreate frames from existing elements on the canvas by right-clicking and selecting Frame Selection.]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort" translatable="true"><![CDATA[macOS shortcut]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21" translatable="true"><![CDATA[â¥]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22" translatable="true"><![CDATA[â]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G" translatable="true"><![CDATA[G]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu" translatable="true"><![CDATA[Win shortcut]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl" translatable="true"><![CDATA[Ctrl]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt" translatable="true"><![CDATA[Alt]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G" translatable="true"><![CDATA[G]]></string>
+  <string name="FigmaBasics.1Frames.Tryitout" translatable="true"><![CDATA[Try it out]]></string>
+  <string name="FigmaBasics.1Frames.SelecttheF" translatable="true"><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></string>
 </resources>
