@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
   <string name="delete_me">Elimíname</string>
+  <string translatable="true" name="FigmaBasics.1Frames.1"><![CDATA[1]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.Frames"><![CDATA[Marcos]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.FramesinFi"><![CDATA[Los marcos en Figma son lo que podrías considerar como *artboards* en otras herramientas de diseño. Los marcos son un elemento fundamental en tus diseños, ya que funcionan como contenedores principales para la mayoría de los elementos que creas en Figma. Hay varias formas de crear marcos en Figma:]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234"><![CDATA[165 × 234]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame"><![CDATA[Marco]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Customsize"><![CDATA[Tamaños personalizados\nCrea marcos de tamaño personalizado seleccionando la herramienta de marco y haz clic y arrastra el cursor hasta el tamaño deseado.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi"><![CDATA[macOS y Win atajo]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F"><![CDATA[F]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.PresetSizes.Presetsize"><![CDATA[Tamaños preestablecidos\nCrea marcos con tamaños preestablecidos, ej. iPhone X, seleccionando el preset en el panel Propiedades a la derecha.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Existingel"><![CDATA[Elementos existentes\nCrear marcos a partir de los elementos seleccionados en el lienzo haciendo clic derecho y eligiendo **Crear marco**.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort"><![CDATA[Atajo de macOS]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21"><![CDATA[Ajustar]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22"><![CDATA[⌘]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G"><![CDATA[Guardar]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu"><![CDATA[Ganar acceso directo]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl"><![CDATA[Ctrl]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt"><![CDATA[Alt]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G"><![CDATA[Guardar]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.Tryitout"><![CDATA[Prueba]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.SelecttheF"><![CDATA[Selecciona la Herramienta de Marco y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.]]></string>
 </resources>
