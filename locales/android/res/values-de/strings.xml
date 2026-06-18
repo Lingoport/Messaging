@@ -3,13 +3,13 @@
   <string name="delete_me">Mich löschen</string>
   <string translatable="true" name="FigmaBasics.1Frames.1"><![CDATA[1]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.Frames"><![CDATA[Rahmen]]></string>
-  <string translatable="true" name="FigmaBasics.1Frames.FramesinFi"><![CDATA[Frames in Figma sind das, was du in anderen Design-Tools als Artboards kennst. Frames sind ein grundlegendes Element fÃ¼r deine Designs und dienen als Container der obersten Ebene fÃ¼r die meisten Inhalte, die du in Figma erstellst. Es gibt verschiedene MÃ¶glichkeiten, Frames in Figma zu erstellen:]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.FramesinFi"><![CDATA[Frames in Figma sind das, was du in anderen Design-Tools als Artboards kennst. Frames sind ein grundlegendes Element für deine Designs und dienen als Container der obersten Ebene für die meisten Inhalte, die du in Figma erstellst. Es gibt verschiedene Möglichkeiten, Frames in Figma zu erstellen:]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234"><![CDATA[165 × 234]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame"><![CDATA[Rahmen]]></string>
-  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Customsize"><![CDATA[Benutzerdefinierte GrÃ¶Ãen\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswÃ¤hlen und den Cursor auf die gewÃ¼nschte GrÃ¶Ãe ziehen.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Customsize"><![CDATA[Benutzerdefinierte Größen\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswählen und den Cursor auf die gewünschte Größe ziehen.]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi"><![CDATA[macOS- und Windows-Tastenkürzel]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F"><![CDATA[F]]></string>
-  <string translatable="true" name="FigmaBasics.1Frames.PresetSizes.Presetsize"><![CDATA[Voreingestellte GrÃ¶Ãen\nErstellen Sie Frames mit voreingestellten GrÃ¶Ãen, z. B. iPhone X, indem Sie die Voreinstellung im Eigenschaften-Panel auf der rechten Seite auswÃ¤hlen.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.PresetSizes.Presetsize"><![CDATA[Voreingestellte Größen\nErstellen Sie Frames mit voreingestellten Größen, z. B. iPhone X, indem Sie die Voreinstellung im Eigenschaften-Panel auf der rechten Seite auswählen.]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Existingel"><![CDATA[Vorhandene Elemente\nErstellen Sie Frames aus vorhandenen Elementen auf der Arbeitsfläche, indem Sie mit der rechten Maustaste klicken und „Auswahl einrahmen" wählen.]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort"><![CDATA[macOS-Tastenkombination]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21"><![CDATA[⌥]]></string>
@@ -20,7 +20,7 @@
   <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt"><![CDATA[Alt]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.Tryitout"><![CDATA[Ausprobieren]]></string>
-  <string translatable="true" name="FigmaBasics.1Frames.SelecttheF"><![CDATA[WÃ¤hlen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.SelecttheF"><![CDATA[Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></string>
   <string translatable="true" name="TESTCHANGE"><![CDATA[1]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.TESTCHANGE3"><![CDATA[Frames in Figma sind das, was du in anderen Design-Tools als Artboards kennst. Frames sind ein grundlegendes Element für deine Designs und dienen als Container der obersten Ebene für die meisten Inhalte, die du in Figma erstellst. Es gibt verschiedene Möglichkeiten, Frames in Figma zu erstellen:]]></string>
   <string translatable="true" name="TESTCHANGE2"><![CDATA[Benutzerdefinierte Größen\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswählen und den Cursor auf die gewünschte Größe ziehen.]]></string>
