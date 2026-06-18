@@ -27,3 +27,11 @@
 "FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G"="G";
 "FigmaBasics.1Frames.Tryitout"="Try it out";
 "FigmaBasics.1Frames.SelecttheF"="Select the Frame Tool              and click and drag along the dotted line to create a new frame.";
+"FigmaBasics.4Styles.Colorstyles.Howtocreat"="How to create Color Styles\nSelect the object you’d like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the “+” icon and you’ll be prompted to give your Style a name.";
+"FigmaBasics.4Styles.Textstyles.Howtocreat"="How to create Text Styles\nSelect the text you’d like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the “+” icon and you’ll be prompted to give your Style a name.";
+"FigmaBasics.4Styles.Styles"="Styles";
+"FigmaBasics.4Styles.Tryitout"="Try it out";
+"FigmaBasics.4Styles.TheStylesf"="The Styles feature allows you to define a set of properties like color, font, and effects of an object, that can be reused across your team\'s designs. Whenever you make a change to a Style’s properties, any objects using that Style will be instantly updated.";
+"FigmaBasics.4Styles.1Createane"="1. Create a new Style\nSelect the text from the 1st chat bubble below and create a new Text Style from it. While you’re at it, also try creating a Color Style from the same text selection.";
+"FigmaBasics.4Styles.2ApplyingS"="2. Applying Styles\nNotice how the 2nd and 3rd chat bubbles have different text and color? Try applying your newly created Text and Color Styles to them so they’re all consistent.";
+"FigmaBasics.4Styles.4"="4";
