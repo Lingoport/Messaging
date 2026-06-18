@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
   <string name="delete_me">Supprimer</string>
-  <string name="FigmaBasics.1Frames.1" translatable="true"><![CDATA[1]]></string>
-  <string name="FigmaBasics.1Frames.Frames" translatable="true"><![CDATA[Cadres]]></string>
-  <string name="FigmaBasics.1Frames.FramesinFi" translatable="true"><![CDATA[Les cadres dans Figma correspondent Ã  ce que vous connaissez peut-Ãªtre sous le nom de plans de travail dans d\'autres outils de conception. Les cadres sont un Ã©lÃ©ment fondamental de vos designs qui servent de conteneur de niveau supÃ©rieur pour la plupart des Ã©lÃ©ments que vous crÃ©ez dans Figma. Il existe plusieurs faÃ§ons de crÃ©er des cadres dans Figma :]]></string>
-  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234" translatable="true"><![CDATA[165 Ã 234]]></string>
-  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame" translatable="true"><![CDATA[Cadre]]></string>
-  <string name="FigmaBasics.1Frames.CustomSizes.Customsize" translatable="true"><![CDATA[Tailles personnalisÃ©es\nCrÃ©ez des cadres de taille personnalisÃ©e en sÃ©lectionnant l\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\'Ã  la taille souhaitÃ©e.]]></string>
-  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS et raccourci Win]]></string>
-  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F" translatable="true"><![CDATA[F]]></string>
-  <string name="FigmaBasics.1Frames.PresetSizes.Presetsize" translatable="true"><![CDATA[Tailles prÃ©dÃ©finies\nCrÃ©ez des cadres avec des tailles prÃ©dÃ©finies, par ex. iPhone X, en sÃ©lectionnant le prÃ©rÃ©glage dans le panneau PropriÃ©tÃ©s Ã  droite.]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Existingel" translatable="true"><![CDATA[ÃlÃ©ments existants\nCrÃ©ez des cadres Ã  partir d\'Ã©lÃ©ments existants sur le canevas en faisant un clic droit et en sÃ©lectionnant Encadrer la sÃ©lection.]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort" translatable="true"><![CDATA[Raccourci macOS]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21" translatable="true"><![CDATA[â¥]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22" translatable="true"><![CDATA[â]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G" translatable="true"><![CDATA[G]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu" translatable="true"><![CDATA[Raccourci gagnant]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl" translatable="true"><![CDATA[Ctrl]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt" translatable="true"><![CDATA[Alt]]></string>
-  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G" translatable="true"><![CDATA[G]]></string>
-  <string name="FigmaBasics.1Frames.Tryitout" translatable="true"><![CDATA[Essayez-le]]></string>
-  <string name="FigmaBasics.1Frames.SelecttheF" translatable="true"><![CDATA[SÃ©lectionnez l\'outil Cadre              et cliquez-glissez le long de la ligne pointillÃ©e pour crÃ©er un nouveau cadre.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.1"><![CDATA[1]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.Frames"><![CDATA[Cadres]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.FramesinFi"><![CDATA[Les cadres dans Figma correspondent Ã  ce que vous connaissez peut-Ãªtre sous le nom de plans de travail dans d\'autres outils de conception. Les cadres sont un Ã©lÃ©ment fondamental de vos designs qui servent de conteneur de niveau supÃ©rieur pour la plupart des Ã©lÃ©ments que vous crÃ©ez dans Figma. Il existe plusieurs faÃ§ons de crÃ©er des cadres dans Figma :]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234"><![CDATA[165 × 234]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame"><![CDATA[Cadre]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Customsize"><![CDATA[Tailles personnalisÃ©es\nCrÃ©ez des cadres de taille personnalisÃ©e en sÃ©lectionnant l\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\'Ã  la taille souhaitÃ©e.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi"><![CDATA[macOS et raccourci Win]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F"><![CDATA[F]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.PresetSizes.Presetsize"><![CDATA[Tailles prÃ©dÃ©finies\nCrÃ©ez des cadres avec des tailles prÃ©dÃ©finies, par ex. iPhone X, en sÃ©lectionnant le prÃ©rÃ©glage dans le panneau PropriÃ©tÃ©s Ã  droite.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Existingel"><![CDATA[Éléments existants\nCréez des cadres à partir d\'éléments existants sur le canevas en faisant un clic droit et en sélectionnant Encadrer la sélection.]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort"><![CDATA[Raccourci macOS]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21"><![CDATA[⌥]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22"><![CDATA[⌘]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G"><![CDATA[G]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu"><![CDATA[Raccourci gagnant]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl"><![CDATA[Ctrl]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt"><![CDATA[Alt]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.Tryitout"><![CDATA[Essayez-le]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.SelecttheF"><![CDATA[SÃ©lectionnez l\'outil Cadre              et cliquez-glissez le long de la ligne pointillÃ©e pour crÃ©er un nouveau cadre.]]></string>
+  <string name="TESTCHANGE" translatable="true"><![CDATA[1]]></string>
+  <string name="FigmaBasics.1Frames.TESTCHANGE3" translatable="true"><![CDATA[Les cadres dans Figma correspondent Ã  ce que vous connaissez peut-Ãªtre sous le nom de plans de travail dans d\'autres outils de conception. Les cadres sont un Ã©lÃ©ment fondamental de vos designs qui servent de conteneur de niveau supÃ©rieur pour la plupart des Ã©lÃ©ments que vous crÃ©ez dans Figma. Il existe plusieurs faÃ§ons de crÃ©er des cadres dans Figma :]]></string>
+  <string name="TESTCHANGE2" translatable="true"><![CDATA[Tailles personnalisÃ©es\nCrÃ©ez des cadres de taille personnalisÃ©e en sÃ©lectionnant l\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\'Ã  la taille souhaitÃ©e.]]></string>
+  <string name="FigmaBasics.1Frames.TESTCHANGE4.Presetsize" translatable="true"><![CDATA[Tailles prÃ©dÃ©finies\nCrÃ©ez des cadres avec des tailles prÃ©dÃ©finies, par ex. iPhone X, en sÃ©lectionnant le prÃ©rÃ©glage dans le panneau PropriÃ©tÃ©s Ã  droite.]]></string>
+  <string name="FigmaBasics.TESTCHANGE5.SelecttheF" translatable="true"><![CDATA[SÃ©lectionnez l\'outil Cadre              et cliquez-glissez le long de la ligne pointillÃ©e pour crÃ©er un nouveau cadre.]]></string>
+  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreat" translatable="true"><![CDATA[Comment crÃ©er des styles de couleurs\nSÃ©lectionnez l\'objet pour lequel vous souhaitez crÃ©er un style et, dans le panneau PropriÃ©tÃ©s, cliquez sur l\'icÃ´ne Styles Ã  cÃ´tÃ© de la propriÃ©tÃ© Ã  enregistrer. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  nommer votre style.]]></string>
+  <string name="FigmaBasics.4Styles.Textstyles.Howtocreat" translatable="true"><![CDATA[Comment crÃ©er des styles de texte\nSÃ©lectionnez le texte pour lequel vous souhaitez crÃ©er un style et cliquez sur l\'icÃ´ne Style dans les propriÃ©tÃ©s de texte du panneau PropriÃ©tÃ©s. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  donner un nom Ã  votre style.]]></string>
+  <string name="FigmaBasics.4Styles.Styles" translatable="true"><![CDATA[Styles]]></string>
+  <string name="FigmaBasics.4Styles.Tryitout" translatable="true"><![CDATA[Essayer]]></string>
+  <string name="FigmaBasics.4Styles.TheStylesf" translatable="true"><![CDATA[La fonctionnalitÃ© Styles vous permet de dÃ©finir un ensemble de propriÃ©tÃ©s telles que la couleur, la police et les effets d\'un objet, rÃ©utilisables dans les designs de votre Ã©quipe. Toute modification des propriÃ©tÃ©s d\'un Style met instantanÃ©ment Ã  jour les objets qui l\'utilisent.]]></string>
+  <string name="FigmaBasics.4Styles.1Createane" translatable="true"><![CDATA[1. CrÃ©er un nouveau Style\nSÃ©lectionnez le texte de la 1Ã¨re bulle de discussion ci-dessous et crÃ©ez un nouveau Style de texte Ã  partir de celui-ci. Profitez-en Ã©galement pour crÃ©er un Style de couleur Ã  partir de la mÃªme sÃ©lection de texte.]]></string>
+  <string name="FigmaBasics.4Styles.2ApplyingS" translatable="true"><![CDATA[2. Application des styles\nVous remarquez que les 2e et 3e bulles de discussion ont un texte et une couleur diffÃ©rents ? Appliquez vos styles de texte et de couleur nouvellement crÃ©Ã©s pour les uniformiser.]]></string>
+  <string name="FigmaBasics.4Styles.4" translatable="true"><![CDATA[4]]></string>
 </resources>
