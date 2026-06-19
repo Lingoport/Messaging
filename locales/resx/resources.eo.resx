@@ -81,4 +81,88 @@
     <value>[[Åççöûñţ] {0} ðöéš ñöţ éẋîšţ.---------------- П國カ내]</value>
     <comment>{0} - Account id</comment>
   </data>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreate">
+    <value><![CDATA[[Ĥöŵ ţö çŕéåţé Çöļöŕ Šţýļéš\nŠéļéçţ ţĥé öƀĵéçţ ýöûâð ļîķé ţö çŕéåţé å Šţýļé ƒöŕ åñð îñ ţĥé Þŕöþéŕţîéš þåñéļ, çļîçķ ţĥé Šţýļéš îçöñ ñéẋţ ţö ţĥé þŕöþéŕţý ýöû ŵöûļð ļîķé ţö šåṽé. Çļîçķ ţĥé â+â îçöñ åñð ýöûâļļ ƀé þŕöɱþţéð ţö ĝîṽé ýöûŕ Šţýļé å ñåɱé.-------------------------------------------------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreate">
+    <value><![CDATA[[Ĥöŵ ţö çŕéåţé Ţéẋţ Šţýļéš\nŠéļéçţ ţĥé ţéẋţ ýöûâð ļîķé ţö çŕéåţé å Šţýļé ƒöŕ åñð çļîçķ ţĥé Šţýļé îçöñ ŵîţĥîñ ţĥé ţéẋţ þŕöþéŕţîéš îñ ţĥé Þŕöþéŕţîéš þåñéļ. Çļîçķ ţĥé â+â îçöñ åñð ýöûâļļ ƀé þŕöɱþţéð ţö ĝîṽé ýöûŕ Šţýļé å ñåɱé.------------------------------------------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Styles">
+    <value><![CDATA[[Šţýļéš----- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Tryitout">
+    <value><![CDATA[[Ţŕý îţ öûţ------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.TheStylesf">
+    <value><![CDATA[[Ţĥé Šţýļéš ƒéåţûŕé åļļöŵš ýöû ţö ðéƒîñé å šéţ öƒ þŕöþéŕţîéš ļîķé çöļöŕ, ƒöñţ, åñð éƒƒéçţš öƒ åñ öƀĵéçţ, ţĥåţ çåñ ƀé ŕéûšéð åçŕöšš ýöûŕ ţéåɱ\'š ðéšîĝñš. Ŵĥéñéṽéŕ ýöû ɱåķé å çĥåñĝé ţö å Šţýļéâš þŕöþéŕţîéš, åñý öƀĵéçţš ûšîñĝ ţĥåţ Šţýļé ŵîļļ ƀé îñšţåñţļý ûþðåţéð.----------------------------------------------------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.1Createane">
+    <value><![CDATA[[1. Çŕéåţé å ñéŵ Šţýļé\nŠéļéçţ ţĥé ţéẋţ ƒŕöɱ ţĥé 1šţ çĥåţ ƀûƀƀļé ƀéļöŵ åñð çŕéåţé å ñéŵ Ţéẋţ Šţýļé ƒŕöɱ îţ. Ŵĥîļé ýöûâŕé åţ îţ, åļšö ţŕý çŕéåţîñĝ å Çöļöŕ Šţýļé ƒŕöɱ ţĥé šåɱé ţéẋţ šéļéçţîöñ.-------------------------------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.2ApplyingS">
+    <value><![CDATA[[2. Åþþļýîñĝ Šţýļéš\nÑöţîçé ĥöŵ ţĥé 2ñð åñð 3ŕð çĥåţ ƀûƀƀļéš ĥåṽé ðîƒƒéŕéñţ ţéẋţ åñð çöļöŕ? Ţŕý åþþļýîñĝ ýöûŕ ñéŵļý çŕéåţéð Ţéẋţ åñð Çöļöŕ Šţýļéš ţö ţĥéɱ šö ţĥéýâŕé åļļ çöñšîšţéñţ.----------------------------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.4">
+    <value><![CDATA[4]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.1">
+    <value><![CDATA[1]]></value>
+  </data>
+  <data name="FigmaBasics.Frames">
+    <value><![CDATA[[Ƒŕåɱéš----- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.FramesinFi">
+    <value><![CDATA[[Ƒŕåɱéš îñ Ƒîĝɱå åŕé ŵĥåţ ýöû ɱåý ţĥîñķ öƒ åš åŕţƀöåŕðš îñ öţĥéŕ ðéšîĝñ ţööļš. Ƒŕåɱéš åŕé å ƒöûñðåţîöñåļ éļéɱéñţ ƒöŕ ýöûŕ ðéšîĝñš ţĥåţ åçţ åš å ţöþ-ļéṽéļ çöñţåîñéŕ ƒöŕ ɱöšţ ţĥîñĝš ýöû çŕéåţé îñ Ƒîĝɱå. Ţĥéŕé åŕé å ƒéŵ ðîƒƒéŕéñţ ŵåýš ţö çŕéåţé ƒŕåɱéš îñ Ƒîĝɱå:---------------------------------------------------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234">
+    <value><![CDATA[[165 Ã 234------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame">
+    <value><![CDATA[[Ƒŕåɱé--- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Customsize">
+    <value><![CDATA[[Çûšţöɱ šîžéš\nÇŕéåţé çûšţöɱ šîžéð ƒŕåɱéš ƀý šéļéçţîñĝ ţĥé ƒŕåɱé ţööļ åñð çļîçķ åñð ðŕåĝ ýöûŕ çûŕšöŕ ţö ţĥé ðéšîŕéð šîžé.----------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics..CustomSizes.Shortcut.macOSandWi">
+    <value><![CDATA[[ɱåçÖŠ åñð Ŵîñ šĥöŕţçûţ---------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F">
+    <value><![CDATA[Ƒ]]></value>
+  </data>
+  <data name="FigmaBasics.PresetSizes.Presetsize">
+    <value><![CDATA[[Þŕéšéţ šîžéš\nÇŕéåţé ƒŕåɱéš ŵîţĥ þŕéšéţ šîžéš, é.ĝ. îÞĥöñé Ẋ, ƀý šéļéçţîñĝ ţĥé þŕéšéţ îñ ţĥé Þŕöþéŕţîéš þåñéļ öñ ţĥé ŕîĝĥţ-ĥåñð šîðé.-------------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Existingel">
+    <value><![CDATA[[Éẋîšţîñĝ éļéɱéñţš\nÇŕéåţé ƒŕåɱéš ƒŕöɱ éẋîšţîñĝ éļéɱéñţš öñ ţĥé çåñṽåš ƀý ŕîĝĥţ-çļîçķîñĝ åñð šéļéçţîñĝ Ƒŕåɱé Šéļéçţîöñ.---------------------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.macOSshort">
+    <value><![CDATA[[ɱåçÖŠ šĥöŕţçûţ------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
+    <value><![CDATA[[â¥ П國カ]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
+    <value><![CDATA[[â П國カ]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group23.G">
+    <value><![CDATA[Ĝ]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Winshortcu">
+    <value><![CDATA[[Ŵîñ šĥöŕţçûţ----- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group24.Ctrl">
+    <value><![CDATA[[Çţŕļ- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group25.Alt">
+    <value><![CDATA[[Åļţ П國カ]]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group26.G">
+    <value><![CDATA[Ĝ]]></value>
+  </data>
+  <data name="FigmaBasics.Tryitout">
+    <value><![CDATA[[Ţŕý îţ öûţ------------- П國カ내]]]></value>
+  </data>
+  <data name="FigmaBasics.SelecttheFrameTool">
+    <value><![CDATA[[Šéļéçţ ţĥé Ƒŕåɱé Ţööļ              åñð çļîçķ åñð ðŕåĝ åļöñĝ ţĥé ðöţţéð ļîñé ţö çŕéåţé å ñéŵ ƒŕåɱé.---------------------- П國カ내]]]></value>
+  </data>
 </root>
