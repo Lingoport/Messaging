@@ -27,3 +27,11 @@
 "FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G"="G";
 "FigmaBasics.1Frames.Tryitout"="Pruébalo";
 "FigmaBasics.1Frames.SelecttheF"="Selecciona la herramienta Marco              y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.";
+"FigmaBasics.4Styles.Colorstyles.Howtocreat"="Cómo crear Estilos de color\\nSelecciona el objeto para el que deseas crear un Estilo y en el panel Propiedades, haz clic en el ícono Estilos junto a la propiedad que deseas guardar. Haz clic en el ícono \"+\" y se te pedirá que asignes un nombre a tu Estilo.";
+"FigmaBasics.4Styles.Textstyles.Howtocreat"="Cómo crear Estilos de texto\\nSelecciona el texto para el que deseas crear un Estilo y haz clic en el icono Estilo dentro de las propiedades de texto en el panel Propiedades. Haz clic en el icono \"+\" y se te pedirá que asignes un nombre a tu Estilo.";
+"FigmaBasics.4Styles.Styles"="Estilos";
+"FigmaBasics.4Styles.Tryitout"="Pruébalo";
+"FigmaBasics.4Styles.TheStylesf"="La función Estilos te permite definir un conjunto de propiedades como color, fuente y efectos de un objeto, que se pueden reutilizar en los diseños de tu equipo. Cada vez que cambies las propiedades de un Estilo, todos los objetos que usen ese Estilo se actualizarán al instante.";
+"FigmaBasics.4Styles.1Createane"="1. Crea un nuevo Estilo\\nSelecciona el texto de la primera burbuja de chat a continuación y crea un nuevo Estilo de Texto. Además, intenta crear un Estilo de Color a partir de la misma selección de texto.";
+"FigmaBasics.4Styles.2ApplyingS"="2. Aplicar estilos\\nFíjate en que el 2.º y 3.º globo de chat tienen texto y color diferentes. Aplica tus estilos de texto y color recién creados para que sean consistentes.";
+"FigmaBasics.4Styles.4"="4";
