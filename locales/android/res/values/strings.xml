@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
   <string name="delete_me">Delete me</string>
-  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreate" translatable="true"><![CDATA[How to create Color Styles\nSelect the object youâd like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the â+â icon and youâll be prompted to give your Style a name.]]></string>
-  <string name="FigmaBasics.4Styles.Textstyles.Howtocreate" translatable="true"><![CDATA[How to create Text Styles\nSelect the text youâd like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the â+â icon and youâll be prompted to give your Style a name.]]></string>
-  <string name="FigmaBasics.4Styles.Styles" translatable="true"><![CDATA[Styles]]></string>
-  <string name="FigmaBasics.4Styles.Tryitout" translatable="true"><![CDATA[Try it out]]></string>
-  <string name="FigmaBasics.4Styles.TheStylesf" translatable="true"><![CDATA[The Styles feature allows you to define a set of properties like color, font, and effects of an object, that can be reused across your team\'s designs. Whenever you make a change to a Styleâs properties, any objects using that Style will be instantly updated.]]></string>
-  <string name="FigmaBasics.4Styles.1Createane" translatable="true"><![CDATA[1. Create a new Style\nSelect the text from the 1st chat bubble below and create a new Text Style from it. While youâre at it, also try creating a Color Style from the same text selection.]]></string>
-  <string name="FigmaBasics.4Styles.2ApplyingS" translatable="true"><![CDATA[2. Applying Styles\nNotice how the 2nd and 3rd chat bubbles have different text and color? Try applying your newly created Text and Color Styles to them so theyâre all consistent.]]></string>
-  <string name="FigmaBasics.4Styles.4" translatable="true"><![CDATA[4]]></string>
-  <string name="FigmaBasics.1Frames.1" translatable="true"><![CDATA[1]]></string>
-  <string name="FigmaBasics.Frames" translatable="true"><![CDATA[Frames]]></string>
-  <string name="FigmaBasics.FramesinFi" translatable="true"><![CDATA[Frames in Figma are what you may think of as artboards in other design tools. Frames are a foundational element for your designs that act as a top-level container for most things you create in Figma. There are a few different ways to create frames in Figma:]]></string>
-  <string name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234" translatable="true"><![CDATA[165 Ã 234]]></string>
-  <string name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame" translatable="true"><![CDATA[Frame]]></string>
-  <string name="FigmaBasics.CustomSizes.Customsize" translatable="true"><![CDATA[Custom sizes\nCreate custom sized frames by selecting the frame tool and click and drag your cursor to the desired size.]]></string>
-  <string name="FigmaBasics..CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS and Win shortcut]]></string>
-  <string name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F" translatable="true"><![CDATA[F]]></string>
-  <string name="FigmaBasics.PresetSizes.Presetsize" translatable="true"><![CDATA[Preset sizes\nCreate frames with preset sizes, e.g. iPhone X, by selecting the preset in the Properties panel on the right-hand side.]]></string>
-  <string name="FigmaBasics.ExistingElements.Existingel" translatable="true"><![CDATA[Existing elements\nCreate frames from existing elements on the canvas by right-clicking and selecting Frame Selection.]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.macOSshort" translatable="true"><![CDATA[macOS shortcut]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.Group21" translatable="true"><![CDATA[â¥]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.Group22" translatable="true"><![CDATA[â]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.Group23.G" translatable="true"><![CDATA[G]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.Winshortcu" translatable="true"><![CDATA[Win shortcut]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.Group24.Ctrl" translatable="true"><![CDATA[Ctrl]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.Group25.Alt" translatable="true"><![CDATA[Alt]]></string>
-  <string name="FigmaBasics.ExistingElements.Shortcut.Group26.G" translatable="true"><![CDATA[G]]></string>
-  <string name="FigmaBasics.Tryitout" translatable="true"><![CDATA[Try it out]]></string>
-  <string name="FigmaBasics.SelecttheFrameTool" translatable="true"><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Colorstyles.Howtocreate"><![CDATA[How to create Color Styles\nSelect the object you’d like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the “+” icon and you’ll be prompted to give your Style a name.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Textstyles.Howtocreate"><![CDATA[How to create Text Styles\nSelect the text you’d like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the “+” icon and you’ll be prompted to give your Style a name.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Styles"><![CDATA[Styles]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Tryitout"><![CDATA[Try it out]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.TheStylesf"><![CDATA[The Styles feature allows you to define a set of properties like color, font, and effects of an object, that can be reused across your team\'s designs. Whenever you make a change to a Style’s properties, any objects using that Style will be instantly updated.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.1Createane"><![CDATA[1. Create a new Style\nSelect the text from the 1st chat bubble below and create a new Text Style from it. While you’re at it, also try creating a Color Style from the same text selection.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.2ApplyingS"><![CDATA[2. Applying Styles\nNotice how the 2nd and 3rd chat bubbles have different text and color? Try applying your newly created Text and Color Styles to them so they’re all consistent.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.4"><![CDATA[4]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.1"><![CDATA[1]]></string>
+  <string translatable="true" name="FigmaBasics.Frames"><![CDATA[Frames]]></string>
+  <string translatable="true" name="FigmaBasics.FramesinFi"><![CDATA[Frames in Figma are what you may think of as artboards in other design tools. Frames are a foundational element for your designs that act as a top-level container for most things you create in Figma. There are a few different ways to create frames in Figma:]]></string>
+  <string translatable="true" name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234"><![CDATA[165 × 234]]></string>
+  <string translatable="true" name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame"><![CDATA[Frame]]></string>
+  <string translatable="true" name="FigmaBasics.CustomSizes.Customsize"><![CDATA[Custom sizes\nCreate custom sized frames by selecting the frame tool and click and drag your cursor to the desired size.]]></string>
+  <string translatable="true" name="FigmaBasics..CustomSizes.Shortcut.macOSandWi"><![CDATA[macOS and Win shortcut]]></string>
+  <string translatable="true" name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F"><![CDATA[F]]></string>
+  <string translatable="true" name="FigmaBasics.PresetSizes.Presetsize"><![CDATA[Preset sizes\nCreate frames with preset sizes, e.g. iPhone X, by selecting the preset in the Properties panel on the right-hand side.]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Existingel"><![CDATA[Existing elements\nCreate frames from existing elements on the canvas by right-clicking and selecting Frame Selection.]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.macOSshort"><![CDATA[macOS shortcut]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group21"><![CDATA[⌥]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group22"><![CDATA[⌘]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group23.G"><![CDATA[G]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Winshortcu"><![CDATA[Win shortcut]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group24.Ctrl"><![CDATA[Ctrl]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group25.Alt"><![CDATA[Alt]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
+  <string translatable="true" name="FigmaBasics.Tryitout"><![CDATA[Try it out]]></string>
+  <string translatable="true" name="FigmaBasics.SelecttheFrameTool"><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></string>
 </resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="FigmaBasics.1Frames.1" translatable="true"><![CDATA[1]]></string>
+  <string name="FigmaBasics.1Frames.Frames" translatable="true"><![CDATA[ãã¬ã¼ã ]]></string>
+  <string name="FigmaBasics.1Frames.FramesinFi" translatable="true"><![CDATA[Figmaã®ãã¬ã¼ã ã¯Figmaãä»ã®ãã¶ã¤ã³ãã¼ã«ã§ãããã¢ã¼ããã¼ããã«ç¸å½ãã¾ãããã¬ã¼ã ã¯ãã¶ã¤ã³ã®åºæ¬è¦ç´ ã§ãããFigmaã§ä½æããã»ã¨ãã©ã®ãªãã¸ã§ã¯ãã®ãããã¬ãã«ã³ã³ããã¨ãã¦æ©è½ãã¾ããFigmaã§ãã¬ã¼ã ãä½æããæ¹æ³ã¯ããã¤ãããã¾ãï¼]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234" translatable="true"><![CDATA[165 Ã 234]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame" translatable="true"><![CDATA[ãã¬ã¼ã ]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Customsize" translatable="true"><![CDATA[ã«ã¹ã¿ã ãµã¤ãº\nãã¬ã¼ã ãã¼ã«ãé¸æããã«ã¼ã½ã«ãã¯ãªãã¯ï¼ãã©ãã°ãã¦ä»»æã®ãµã¤ãºã®ãã¬ã¼ã ãä½æãã¾ãã]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOSã¨Windowsã®ã·ã§ã¼ãã«ãã]]></string>
+  <string name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F" translatable="true"><![CDATA[F]]></string>
+  <string name="FigmaBasics.1Frames.PresetSizes.Presetsize" translatable="true"><![CDATA[ããªã»ãããµã¤ãº\nãã­ããã£ããã«ï¼å³å´ï¼ã§ããªã»ãããé¸æããiPhone Xãªã©ã®ããªã»ãããµã¤ãºã§ãã¬ã¼ã ãä½æãã¾ãã]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Existingel" translatable="true"><![CDATA[æ¢å­ã®è¦ç´ \nã­ã£ã³ãã¹ä¸ã®æ¢å­ã®è¦ç´ ãå³ã¯ãªãã¯ãããé¸æç¯å²ããã¬ã¼ã åããé¸æãã¦ãã¬ã¼ã ãä½æãã¾ãã]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort" translatable="true"><![CDATA[macOSã·ã§ã¼ãã«ãã]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21" translatable="true"><![CDATA[â¥]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22" translatable="true"><![CDATA[â]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G" translatable="true"><![CDATA[ï¼§]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu" translatable="true"><![CDATA[ã·ã§ã¼ãã«ãããç²å¾]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl" translatable="true"><![CDATA[Ctrl]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt" translatable="true"><![CDATA[ä»£æ¿]]></string>
+  <string name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G" translatable="true"><![CDATA[G]]></string>
+  <string name="FigmaBasics.1Frames.Tryitout" translatable="true"><![CDATA[è©¦ãã¦ã¿ã]]></string>
+  <string name="FigmaBasics.1Frames.SelecttheF" translatable="true"><![CDATA[ãã¬ã¼ã ãã¼ã«              ãé¸æããç¹ç·ã«æ²¿ã£ã¦ã¯ãªãã¯ï¼ãã©ãã°ãã¦æ°ãããã¬ã¼ã ãä½æãã¾ãã]]></string>
+  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreat" translatable="true"><![CDATA[ã«ã©ã¼ã¹ã¿ã¤ã«ã®ä½ææ¹æ³\nã¹ã¿ã¤ã«ãä½æããããªãã¸ã§ã¯ããé¸æãããã­ããã£ããã«ã§ä¿å­ããããã­ããã£ã®æ¨ªã«ããã¹ã¿ã¤ã«ã¢ã¤ã³ã³ãã¯ãªãã¯ãã¾ããã+ãã¢ã¤ã³ã³ãã¯ãªãã¯ããã¨ãã¹ã¿ã¤ã«ã®ååãå¥åããããæ±ãããã¾ãã]]></string>
+  <string name="FigmaBasics.4Styles.Textstyles.Howtocreat" translatable="true"><![CDATA[ãã­ã¹ãã¹ã¿ã¤ã«ã®ä½ææ¹æ³\nã¹ã¿ã¤ã«ãä½æããããã­ã¹ããé¸æãããã­ããã£ããã«ã®ãã­ã¹ããã­ããã£åã«ããã¹ã¿ã¤ã«ã¢ã¤ã³ã³ãã¯ãªãã¯ãã¾ããã+ãã¢ã¤ã³ã³ãã¯ãªãã¯ããã¨ãã¹ã¿ã¤ã«ã®ååãå¥åããããæ±ãããã¾ãã]]></string>
+  <string name="FigmaBasics.4Styles.Styles" translatable="true"><![CDATA[ã¹ã¿ã¤ã«]]></string>
+  <string name="FigmaBasics.4Styles.Tryitout" translatable="true"><![CDATA[è©¦ãã¦ã¿ã]]></string>
+  <string name="FigmaBasics.4Styles.TheStylesf" translatable="true"><![CDATA[ã¹ã¿ã¤ã«æ©è½ãä½¿ç¨ããã¨ãã«ã©ã¼ããã©ã³ããã¨ãã§ã¯ããªã©ã®ãªãã¸ã§ã¯ããã­ããã£ãã¹ã¿ã¤ã«ã¨ãã¦å®ç¾©ãããã¼ã ã®ãã¶ã¤ã³å¨ä½ã§åå©ç¨ã§ãã¾ããã¹ã¿ã¤ã«ã®ãã­ããã£ãå¤æ´ããã¨ããã®ã¹ã¿ã¤ã«ãä½¿ç¨ãã¦ãããã¹ã¦ã®ãªãã¸ã§ã¯ãã«å³åº§ã«åæ ããã¾ãã]]></string>
+  <string name="FigmaBasics.4Styles.1Createane" translatable="true"><![CDATA[1. æ°ããã¹ã¿ã¤ã«ãä½æãã\nä¸ã®æåã®ãã£ããããã«ãããã­ã¹ããé¸æããæ°ãããã­ã¹ãã¹ã¿ã¤ã«ãä½æãã¦ãã ãããåæã«ãåããã­ã¹ãé¸æããã«ã©ã¼ã¹ã¿ã¤ã«ãä½æãã¦ã¿ã¦ãã ããã]]></string>
+  <string name="FigmaBasics.4Styles.2ApplyingS" translatable="true"><![CDATA[2. ã¹ã¿ã¤ã«ã®é©ç¨\n2çªç®ã¨3çªç®ã®ãã£ããããã«ã®ãã­ã¹ãã¨è²ãç°ãªããã¨ã«æ°ã¥ãã¾ãããï¼ä½æãããã­ã¹ãã¨ã«ã©ã¼ã¹ã¿ã¤ã«ãé©ç¨ãã¦ãçµ±ä¸æãåºãã¦ã¿ã¾ãããã]]></string>
+  <string name="FigmaBasics.4Styles.4" translatable="true"><![CDATA[4]]></string>
+</resources>
