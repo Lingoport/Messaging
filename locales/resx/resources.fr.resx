@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <data name="FigmaBasics.1Frames.1">
+    <value><![CDATA[1]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.Frames">
+    <value><![CDATA[Cadres]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.FramesinFi">
+    <value><![CDATA[Les cadres dans Figma correspondent Ã  ce que vous connaissez peut-Ãªtre sous le nom de plans de travail dans d\'autres outils de conception. Les cadres sont un Ã©lÃ©ment fondamental de vos designs qui servent de conteneur de niveau supÃ©rieur pour la plupart des Ã©lÃ©ments que vous crÃ©ez dans Figma. Il existe plusieurs faÃ§ons de crÃ©er des cadres dans Figma :]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234">
+    <value><![CDATA[165 Ã 234]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame">
+    <value><![CDATA[Cadre]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.CustomSizes.Customsize">
+    <value><![CDATA[Tailles personnalisÃ©es\nCrÃ©ez des cadres de taille personnalisÃ©e en sÃ©lectionnant l\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\'Ã  la taille souhaitÃ©e.]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi">
+    <value><![CDATA[macOS et raccourci Win]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F">
+    <value><![CDATA[F]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.PresetSizes.Presetsize">
+    <value><![CDATA[Tailles prÃ©dÃ©finies\nCrÃ©ez des cadres avec des tailles prÃ©dÃ©finies, par ex. iPhone X, en sÃ©lectionnant le prÃ©rÃ©glage dans le panneau PropriÃ©tÃ©s Ã  droite.]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Existingel">
+    <value><![CDATA[ÃlÃ©ments existants\nCrÃ©ez des cadres Ã  partir d\'Ã©lÃ©ments existants sur le canevas en faisant un clic droit et en sÃ©lectionnant Encadrer la sÃ©lection.]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort">
+    <value><![CDATA[Raccourci macOS]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21">
+    <value><![CDATA[â¥]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22">
+    <value><![CDATA[â]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G">
+    <value><![CDATA[G]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu">
+    <value><![CDATA[Raccourci gagnant]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl">
+    <value><![CDATA[Ctrl]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt">
+    <value><![CDATA[Alt]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G">
+    <value><![CDATA[G]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.Tryitout">
+    <value><![CDATA[Essayez-le]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.SelecttheF">
+    <value><![CDATA[SÃ©lectionnez l\'outil Cadre              et cliquez-glissez le long de la ligne pointillÃ©e pour crÃ©er un nouveau cadre.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
+    <value><![CDATA[Comment crÃ©er des styles de couleurs\nSÃ©lectionnez l\'objet pour lequel vous souhaitez crÃ©er un style et, dans le panneau PropriÃ©tÃ©s, cliquez sur l\'icÃ´ne Styles Ã  cÃ´tÃ© de la propriÃ©tÃ© Ã  enregistrer. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  nommer votre style.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
+    <value><![CDATA[Comment crÃ©er des styles de texte\nSÃ©lectionnez le texte pour lequel vous souhaitez crÃ©er un style et cliquez sur l\'icÃ´ne Style dans les propriÃ©tÃ©s de texte du panneau PropriÃ©tÃ©s. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  donner un nom Ã  votre style.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Styles">
+    <value><![CDATA[Styles]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Tryitout">
+    <value><![CDATA[Essayer]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.TheStylesf">
+    <value><![CDATA[La fonctionnalitÃ© Styles vous permet de dÃ©finir un ensemble de propriÃ©tÃ©s telles que la couleur, la police et les effets d\'un objet, rÃ©utilisables dans les designs de votre Ã©quipe. Toute modification des propriÃ©tÃ©s d\'un Style met instantanÃ©ment Ã  jour les objets qui l\'utilisent.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.1Createane">
+    <value><![CDATA[1. CrÃ©er un nouveau Style\nSÃ©lectionnez le texte de la 1Ã¨re bulle de discussion ci-dessous et crÃ©ez un nouveau Style de texte Ã  partir de celui-ci. Profitez-en Ã©galement pour crÃ©er un Style de couleur Ã  partir de la mÃªme sÃ©lection de texte.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.2ApplyingS">
+    <value><![CDATA[2. Application des styles\nVous remarquez que les 2e et 3e bulles de discussion ont un texte et une couleur diffÃ©rents ? Appliquez vos styles de texte et de couleur nouvellement crÃ©Ã©s pour les uniformiser.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.4">
+    <value><![CDATA[4]]></value>
+  </data>
+</root>
