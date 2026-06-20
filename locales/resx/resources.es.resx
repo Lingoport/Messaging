@@ -70,37 +70,37 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="WarningThisAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
-    <value>Diese [Konten]-Gruppenbezeichnung existiert bereits mehrmals in der Tabelle mit unterschiedlichen Sortierungen. Die Sortierungen werden zur Konsistenz auf {0} gesetzt.</value>
+    <value>Este nombre de [Grupo de Cuenta] ya existe en la tabla más de una vez con distintos órdenes de clasificación. Los órdenes de clasificación se establecerán en {0} para mantener la coherencia.</value>
     <comment>Sort level</comment>
   </data>
   <data name="WarningThisSummaryAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
-    <value>Diese Zusammenfassung [Konten]-Gruppierung existiert bereits mehrfach mit unterschiedlichen Sortierreihenfolgen. Die Sortierreihenfolgen werden auf {0} vereinheitlicht.</value>
+    <value>Este nombre de grupo de resumen [Cuenta] ya existe en la tabla más de una vez con distintos órdenes de clasificación. Los órdenes de clasificación se establecerán en {0} para mantener la coherencia.</value>
     <comment>Sort level</comment>
   </data>
   <data name="ErrorAccountDoesNotExist" xml:space="preserve">
-    <value>[Konto] {0} existiert nicht.</value>
+    <value>[Cuenta] {0} no existe.</value>
     <comment>{0} - Account id</comment>
   </data>
   <data name="FigmaBasics.4Styles.Colorstyles.Howtocreate">
-    <value><![CDATA[So erstellen Sie Farbstile\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaftenbereich auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+“-Symbol und Sie werden aufgefordert, Ihrem Stil einen Namen zu geben.]]></value>
+    <value><![CDATA[Cómo crear estilos de color\nSelecciona el objeto para el que deseas crear un estilo y, en el panel Propiedades, haz clic en el icono de estilos junto a la propiedad que quieras guardar. Haz clic en el icono "+" y se te pedirá que nombres tu estilo.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Textstyles.Howtocreate">
-    <value><![CDATA[So erstellen Sie Textstile\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaftenbereich im Textbereich auf das Stilsymbol. Klicken Sie auf das „+“-Symbol und Sie werden aufgefordert, Ihrem Stil einen Namen zu geben.]]></value>
+    <value><![CDATA[Cómo crear estilos de texto\nSelecciona el texto para el que deseas crear un estilo y haz clic en el icono de estilo dentro de las propiedades de texto en el panel Propiedades. Haz clic en el icono "+" y se te pedirá que le des un nombre a tu estilo.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Styles">
-    <value><![CDATA[Stile]]></value>
+    <value><![CDATA[Estilos]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Tryitout">
-    <value><![CDATA[Ausprobieren]]></value>
+    <value><![CDATA[Prueba]]></value>
   </data>
   <data name="FigmaBasics.4Styles.TheStylesf">
-    <value><![CDATA[Mit der Funktion âStile" kÃ¶nnen Sie Eigenschaften wie Farbe, Schrift und Effekte eines Objekts festlegen und im gesamten Team wiederverwenden. Wenn Sie die Eigenschaften eines Stils Ã¤ndern, werden alle Objekte, die diesen Stil verwenden, sofort aktualisiert.]]></value>
+    <value><![CDATA[La función Estilos te permite definir un conjunto de propiedades como color, fuente y efectos de un objeto, que se pueden reutilizar en los diseños de tu equipo. Cada vez que modifiques las propiedades de un estilo, los objetos que lo usen se actualizarán al instante.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.1Createane">
-    <value><![CDATA[1. Einen neuen Stil erstellen\nWÃ¤hle den Text aus der ersten Sprechblase unten aus und erstelle daraus einen neuen Textstil. Versuche dabei auch, einen Farbstil aus derselben Textauswahl zu erstellen.]]></value>
+    <value><![CDATA[Crear un nuevo Estilo\nSelecciona el texto del primer globo de chat a continuación y crea un nuevo Estilo de Texto a partir de él. Mientras lo haces, también intenta crear un Estilo de Color a partir de la misma selección.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.2ApplyingS">
-    <value><![CDATA[2. Stile anwenden\nBeachte, dass die 2. und 3. Sprechblase anderen Text und eine andere Farbe haben? Wende deine neu erstellten Text- und Farbstile auf sie an, damit sie einheitlich sind.]]></value>
+    <value><![CDATA[Aplicar estilos\nObserva cómo los 2º y 3º globos de chat tienen texto y color distintos? Prueba a aplicar los nuevos Estilos de Texto y Color que has creado para que todos sean consistentes.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.4">
     <value><![CDATA[4]]></value>
@@ -109,49 +109,49 @@
     <value><![CDATA[1]]></value>
   </data>
   <data name="FigmaBasics.Frames">
-    <value><![CDATA[Rahmen]]></value>
+    <value><![CDATA[Marcos]]></value>
   </data>
   <data name="FigmaBasics.FramesinFi">
-    <value><![CDATA[Rahmen in Figma sind das, was du in anderen Design-Tools als Artboards kennst. Rahmen sind ein grundlegendes Element deiner Designs und dienen als übergeordnete Container für die meisten Elemente, die du in Figma erstellst. Es gibt verschiedene Möglichkeiten, Rahmen in Figma zu erstellen:]]></value>
+    <value><![CDATA[Los marcos en Figma son lo que podrías considerar como áreas de trabajo en otras herramientas de diseño. Los marcos son un elemento fundamental de tus diseños, ya que actúan como contenedor principal de la mayoría de los elementos que creas en Figma. Existen varias formas de crear marcos en Figma:]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234">
     <value><![CDATA[165 × 234]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame">
-    <value><![CDATA[Rahmen]]></value>
+    <value><![CDATA[Marco]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Customsize">
-    <value><![CDATA[Benutzerdefinierte Größen\nErstelle benutzerdefinierte Rahmen mit dem Rahmen-Werkzeug, indem du die Maustaste gedrückt hältst und die gewünschte Größe aufziehst.]]></value>
+    <value><![CDATA[Tamaños personalizados\nCrea marcos de tamaño personalizado seleccionando la herramienta Marco y haz clic y arrastra el cursor hasta el tamaño deseado.]]></value>
   </data>
   <data name="FigmaBasics..CustomSizes.Shortcut.macOSandWi">
-    <value><![CDATA[macOS- und Win-Shortcut]]></value>
+    <value><![CDATA[macOS y Win atajo]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F">
     <value><![CDATA[F]]></value>
   </data>
   <data name="FigmaBasics.PresetSizes.Presetsize">
-    <value><![CDATA[Vorgegebene Größen\nErstelle Rahmen mit vorgegebenen Größen, z. B. iPhone X, indem du die Vorgabe im Eigenschaftenbereich rechts auswählst.]]></value>
+    <value><![CDATA[Tamaños preestablecidos\nCrea marcos con tamaños preestablecidos, p. ej. iPhone X, seleccionando el preset en el panel Propiedades a la derecha.]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Existingel">
-    <value><![CDATA[Bestehende Elemente\nErstelle Rahmen aus ausgewählten Elementen auf der Leinwand durch Rechtsklick und Auswahl von „Rahmen auswählen“.]]></value>
+    <value><![CDATA[Elementos existentes\nCrear marcos desde elementos existentes en el lienzo haciendo clic derecho y seleccionando **Seleccionar marco**.]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.macOSshort">
-    <value><![CDATA[macOS-Tastenkombination]]></value>
+    <value><![CDATA[Atajo de macOS]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
-    <value><![CDATA[„≡“]]></value>
+    <value><![CDATA[Ajustar]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
-    <value><![CDATA[Strg]]></value>
+    <value><![CDATA[⌘]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group23.G">
-    <value><![CDATA[G]]></value>
+    <value><![CDATA[Guardar]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Winshortcu">
-    <value><![CDATA[Gewinnen-Shortcut]]></value>
+    <value><![CDATA[Ganar acceso directo]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group24.Ctrl">
-    <value><![CDATA[Strg]]></value>
+    <value><![CDATA[Ctrl]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group25.Alt">
     <value><![CDATA[Alt]]></value>
@@ -160,9 +160,9 @@
     <value><![CDATA[G]]></value>
   </data>
   <data name="FigmaBasics.Tryitout">
-    <value><![CDATA[Probiere es aus]]></value>
+    <value><![CDATA[Prueba]]></value>
   </data>
   <data name="FigmaBasics.SelecttheFrameTool">
-    <value><![CDATA[Wählen Sie das Rahmen-Werkzeug aus und ziehen Sie mit gedrückter Maustaste entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></value>
+    <value><![CDATA[Selecciona la Herramienta de Marco y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.]]></value>
   </data>
 </root>

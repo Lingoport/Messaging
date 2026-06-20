@@ -1,70 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
-  <data name="FigmaBasics.1Frames.1">
-    <value><![CDATA[1]]></value>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+     -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"></xsd:import>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+                <xsd:element minOccurs="0" name="comment" msdata:Ordinal="2" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" msdata:Ordinal="1" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="type" msdata:Ordinal="3" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="mimetype" msdata:Ordinal="4" type="xsd:string"></xsd:attribute>
+              <xsd:attribute ref="xml:space"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element minOccurs="0" name="value" msdata:Ordinal="1" type="xsd:string"></xsd:element>
+              </xsd:sequence>
+              <xsd:attribute use="required" name="name" type="xsd:string"></xsd:attribute>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="WarningThisAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
+    <value>Ce nom de groupe de compte existe déjà plusieurs fois dans le tableau avec des ordres de tri différents. Les ordres de tri seront définis sur {0} pour uniformiser.</value>
+    <comment>Sort level</comment>
   </data>
-  <data name="FigmaBasics.1Frames.Frames">
-    <value><![CDATA[Cadres]]></value>
+  <data name="WarningThisSummaryAccountGroupNameAlreadyExistsWithDifferentSortOrders" xml:space="preserve">
+    <value>Ce nom de groupe de résumé [Compte] existe déjà plusieurs fois dans le tableau avec des ordres de tri différents. Les ordres de tri seront définis sur {0} pour uniformiser.</value>
+    <comment>Sort level</comment>
   </data>
-  <data name="FigmaBasics.1Frames.FramesinFi">
-    <value><![CDATA[Les cadres dans Figma correspondent Ã  ce que vous connaissez peut-Ãªtre sous le nom de plans de travail dans d\'autres outils de conception. Les cadres sont un Ã©lÃ©ment fondamental de vos designs qui servent de conteneur de niveau supÃ©rieur pour la plupart des Ã©lÃ©ments que vous crÃ©ez dans Figma. Il existe plusieurs faÃ§ons de crÃ©er des cadres dans Figma :]]></value>
+  <data name="ErrorAccountDoesNotExist" xml:space="preserve">
+    <value>[Compte] {0} n&amp;apos;existe pas.</value>
+    <comment>{0} - Account id</comment>
   </data>
-  <data name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.165234">
-    <value><![CDATA[165 Ã 234]]></value>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreate">
+    <value><![CDATA[Comment créer des Styles de couleur\nSélectionnez l’objet pour lequel vous souhaitez créer un Style, puis dans le panneau Propriétés, cliquez sur l’icône Styles à côté de la propriété à enregistrer. Cliquez sur l’icône « + » et nommez votre Style.]]></value>
   </data>
-  <data name="FigmaBasics.1Frames.CustomSizes.Image.SelectionboundsFrame.Frame">
-    <value><![CDATA[Cadre]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.CustomSizes.Customsize">
-    <value><![CDATA[Tailles personnalisÃ©es\nCrÃ©ez des cadres de taille personnalisÃ©e en sÃ©lectionnant l\'outil Cadre, puis cliquez et faites glisser le curseur jusqu\'Ã  la taille souhaitÃ©e.]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.CustomSizes.Shortcut.macOSandWi">
-    <value><![CDATA[macOS et raccourci Win]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.CustomSizes.Shortcut.Shortcutkey.F">
-    <value><![CDATA[F]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.PresetSizes.Presetsize">
-    <value><![CDATA[Tailles prÃ©dÃ©finies\nCrÃ©ez des cadres avec des tailles prÃ©dÃ©finies, par ex. iPhone X, en sÃ©lectionnant le prÃ©rÃ©glage dans le panneau PropriÃ©tÃ©s Ã  droite.]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Existingel">
-    <value><![CDATA[ÃlÃ©ments existants\nCrÃ©ez des cadres Ã  partir d\'Ã©lÃ©ments existants sur le canevas en faisant un clic droit et en sÃ©lectionnant Encadrer la sÃ©lection.]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.macOSshort">
-    <value><![CDATA[Raccourci macOS]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group21">
-    <value><![CDATA[â¥]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group22">
-    <value><![CDATA[â]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group23.G">
-    <value><![CDATA[G]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Winshortcu">
-    <value><![CDATA[Raccourci gagnant]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group24.Ctrl">
-    <value><![CDATA[Ctrl]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group25.Alt">
-    <value><![CDATA[Alt]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.ExistingElements.Shortcut.Group26.G">
-    <value><![CDATA[G]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.Tryitout">
-    <value><![CDATA[Essayez-le]]></value>
-  </data>
-  <data name="FigmaBasics.1Frames.SelecttheF">
-    <value><![CDATA[SÃ©lectionnez l\'outil Cadre              et cliquez-glissez le long de la ligne pointillÃ©e pour crÃ©er un nouveau cadre.]]></value>
-  </data>
-  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
-    <value><![CDATA[Comment crÃ©er des styles de couleurs\nSÃ©lectionnez l\'objet pour lequel vous souhaitez crÃ©er un style et, dans le panneau PropriÃ©tÃ©s, cliquez sur l\'icÃ´ne Styles Ã  cÃ´tÃ© de la propriÃ©tÃ© Ã  enregistrer. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  nommer votre style.]]></value>
-  </data>
-  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
-    <value><![CDATA[Comment crÃ©er des styles de texte\nSÃ©lectionnez le texte pour lequel vous souhaitez crÃ©er un style et cliquez sur l\'icÃ´ne Style dans les propriÃ©tÃ©s de texte du panneau PropriÃ©tÃ©s. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  donner un nom Ã  votre style.]]></value>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreate">
+    <value><![CDATA[Comment créer des styles de texte\nSélectionnez le texte pour lequel vous souhaitez créer un style, puis cliquez sur l’icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l’icône « + » et vous serez invité à nommer votre style.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Styles">
     <value><![CDATA[Styles]]></value>
@@ -83,5 +104,65 @@
   </data>
   <data name="FigmaBasics.4Styles.4">
     <value><![CDATA[4]]></value>
+  </data>
+  <data name="FigmaBasics.1Frames.1">
+    <value><![CDATA[1]]></value>
+  </data>
+  <data name="FigmaBasics.Frames">
+    <value><![CDATA[Cadres]]></value>
+  </data>
+  <data name="FigmaBasics.FramesinFi">
+    <value><![CDATA[Cadres dans Figma sont ce que vous pourriez considérer comme des plans de travail dans d'autres outils de conception. Les cadres sont un élément fondamental de vos designs : ils servent de conteneur principal pour la plupart des éléments que vous créez dans Figma. Voici plusieurs façons de créer des cadres dans Figma :]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234">
+    <value><![CDATA[165 × 234]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame">
+    <value><![CDATA[Cadre]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Customsize">
+    <value><![CDATA[Tailles personnalisées\nCréez des cadres de taille personnalisée en sélectionnant l'outil Cadre et en faisant glisser le curseur jusqu'à la taille souhaitée.]]></value>
+  </data>
+  <data name="FigmaBasics..CustomSizes.Shortcut.macOSandWi">
+    <value><![CDATA[macOS et Win raccourci]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F">
+    <value><![CDATA[F]]></value>
+  </data>
+  <data name="FigmaBasics.PresetSizes.Presetsize">
+    <value><![CDATA[Tailles prédéfinies\nCréez des cadres avec des tailles prédéfinies, par exemple iPhone X, en sélectionnant la taille prédéfinie dans le panneau Propriétés à droite.]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Existingel">
+    <value><![CDATA[Éléments existants\nCréez des cadres à partir des éléments existants sur la toile en faisant un clic droit et en sélectionnant **Cadre de la sélection**.]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.macOSshort">
+    <value><![CDATA[Raccourci macOS]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
+    <value><![CDATA[⌥]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
+    <value><![CDATA[⌘]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group23.G">
+    <value><![CDATA[G]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Winshortcu">
+    <value><![CDATA[Raccourci de victoire]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group24.Ctrl">
+    <value><![CDATA[Contrôle]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group25.Alt">
+    <value><![CDATA[Alt]]></value>
+  </data>
+  <data name="FigmaBasics.ExistingElements.Shortcut.Group26.G">
+    <value><![CDATA[G]]></value>
+  </data>
+  <data name="FigmaBasics.Tryitout">
+    <value><![CDATA[Essayez]]></value>
+  </data>
+  <data name="FigmaBasics.SelecttheFrameTool">
+    <value><![CDATA[Sélectionnez l'outil **Cadre**\npuis cliquez et faites glisser le long de la ligne pointillée pour créer un nouveau cadre.]]></value>
   </data>
 </root>
