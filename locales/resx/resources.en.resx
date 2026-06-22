@@ -94,13 +94,13 @@
     <value><![CDATA[Try it out]]></value>
   </data>
   <data name="FigmaBasics.4Styles.TheStylesf">
-    <value><![CDATA[The Styles feature allows you to define a set of properties like color, font, and effects of an object, that can be reused across your team\'s designs. Whenever you make a change to a Styleâs properties, any objects using that Style will be instantly updated.]]></value>
+    <value><![CDATA[The Styles feature allows you to define a set of properties like color, font, and effects of an object, that can be reused across your team\'s designs. Whenever you make a change to a Style’s properties, any objects using that Style will be instantly updated.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.1Createane">
-    <value><![CDATA[1. Create a new Style\nSelect the text from the 1st chat bubble below and create a new Text Style from it. While youâre at it, also try creating a Color Style from the same text selection.]]></value>
+    <value><![CDATA[1. Create a new Style\nSelect the text from the 1st chat bubble below and create a new Text Style from it. While you’re at it, also try creating a Color Style from the same text selection.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.2ApplyingS">
-    <value><![CDATA[2. Applying Styles\nNotice how the 2nd and 3rd chat bubbles have different text and color? Try applying your newly created Text and Color Styles to them so theyâre all consistent.]]></value>
+    <value><![CDATA[2. Applying Styles\nNotice how the 2nd and 3rd chat bubbles have different text and color? Try applying your newly created Text and Color Styles to them so they’re all consistent.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.4">
     <value><![CDATA[4]]></value>
@@ -115,7 +115,7 @@
     <value><![CDATA[Frames in Figma are what you may think of as artboards in other design tools. Frames are a foundational element for your designs that act as a top-level container for most things you create in Figma. There are a few different ways to create frames in Figma:]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234">
-    <value><![CDATA[165 Ã 234]]></value>
+    <value><![CDATA[165 × 234]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame">
     <value><![CDATA[Frame]]></value>
@@ -139,10 +139,10 @@
     <value><![CDATA[macOS shortcut]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
-    <value><![CDATA[â¥]]></value>
+    <value><![CDATA[⌥]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
-    <value><![CDATA[â]]></value>
+    <value><![CDATA[⌘]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group23.G">
     <value><![CDATA[G]]></value>
@@ -163,6 +163,21 @@
     <value><![CDATA[Try it out]]></value>
   </data>
   <data name="FigmaBasics.SelecttheFrameTool">
+    <value><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
+    <value><![CDATA[How to create Color Styles\nSelect the object youâd like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the â+â icon and youâll be prompted to give your Style a name.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
+    <value><![CDATA[How to create Text Styles\nSelect the text youâd like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the â+â icon and youâll be prompted to give your Style a name.]]></value>
+  </data>
+  <data name="FigmaBasics.1">
+    <value><![CDATA[1]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Shortcut.macOSandWi">
+    <value><![CDATA[macOS and Win shortcut]]></value>
+  </data>
+  <data name="FigmaBasics.SelecttheF">
     <value><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></value>
   </data>
 </root>

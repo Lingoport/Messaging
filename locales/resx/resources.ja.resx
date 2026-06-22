@@ -88,19 +88,19 @@
     <value><![CDATA[テキストスタイルの作成方法\nスタイルを作成したいテキストを選択し、プロパティパネル内のテキストプロパティ内にあるスタイルアイコンをクリックします。]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Styles">
-    <value><![CDATA[ã¹ã¿ã¤ã«]]></value>
+    <value><![CDATA[スタイル]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Tryitout">
-    <value><![CDATA[è©¦ãã¦ã¿ã]]></value>
+    <value><![CDATA[試してみる]]></value>
   </data>
   <data name="FigmaBasics.4Styles.TheStylesf">
-    <value><![CDATA[ã¹ã¿ã¤ã«æ©è½ãä½¿ç¨ããã¨ãã«ã©ã¼ããã©ã³ããã¨ãã§ã¯ããªã©ã®ãªãã¸ã§ã¯ããã­ããã£ãã¹ã¿ã¤ã«ã¨ãã¦å®ç¾©ãããã¼ã ã®ãã¶ã¤ã³å¨ä½ã§åå©ç¨ã§ãã¾ããã¹ã¿ã¤ã«ã®ãã­ããã£ãå¤æ´ããã¨ããã®ã¹ã¿ã¤ã«ãä½¿ç¨ãã¦ãããã¹ã¦ã®ãªãã¸ã§ã¯ãã«å³åº§ã«åæ ããã¾ãã]]></value>
+    <value><![CDATA[スタイル機能を使用すると、カラー、フォント、エフェクトなどのオブジェクトプロパティをスタイルとして定義し、チームのデザイン全体で再利用できます。スタイルのプロパティを変更すると、そのスタイルを使用しているすべてのオブジェクトに即座に反映されます。]]></value>
   </data>
   <data name="FigmaBasics.4Styles.1Createane">
-    <value><![CDATA[1. æ°ããã¹ã¿ã¤ã«ãä½æãã\nä¸ã®æåã®ãã£ããããã«ãããã­ã¹ããé¸æããæ°ãããã­ã¹ãã¹ã¿ã¤ã«ãä½æãã¦ãã ãããåæã«ãåããã­ã¹ãé¸æããã«ã©ã¼ã¹ã¿ã¤ã«ãä½æãã¦ã¿ã¦ãã ããã]]></value>
+    <value><![CDATA[1. 新しいスタイルを作成する\n下の最初のチャットバブルからテキストを選択し、新しいテキストスタイルを作成してください。同時に、同じテキスト選択からカラースタイルも作成してみてください。]]></value>
   </data>
   <data name="FigmaBasics.4Styles.2ApplyingS">
-    <value><![CDATA[2. ã¹ã¿ã¤ã«ã®é©ç¨\n2çªç®ã¨3çªç®ã®ãã£ããããã«ã®ãã­ã¹ãã¨è²ãç°ãªããã¨ã«æ°ã¥ãã¾ãããï¼ä½æãããã­ã¹ãã¨ã«ã©ã¼ã¹ã¿ã¤ã«ãé©ç¨ãã¦ãçµ±ä¸æãåºãã¦ã¿ã¾ãããã]]></value>
+    <value><![CDATA[2. スタイルの適用\n2番目と3番目のチャットバブルのテキストと色が異なることに気づきましたか？作成したテキストとカラースタイルを適用して、統一感を出してみましょう。]]></value>
   </data>
   <data name="FigmaBasics.4Styles.4">
     <value><![CDATA[4]]></value>
@@ -112,7 +112,7 @@
     <value><![CDATA[フレーム]]></value>
   </data>
   <data name="FigmaBasics.FramesinFi">
-    <value><![CDATA[フレームはFigmaにおけるアートボードのようなものです。他のデザインツールのアートボードと同様、フレームはデザインの基礎となる要素で、作成したほとんどのオブジェクトを包含する最上位のコンテナです。\n\nフレームの作成方法は、以下の通りです：]]></value>
+    <value><![CDATA[FigmaのフレームはFigma、他のデザインツールでいう「アートボード」に相当します。フレームはデザインの基本要素であり、Figmaで作成するほとんどのオブジェクトのトップレベルコンテナとして機能します。Figmaでフレームを作成する方法はいくつかあります：]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234">
     <value><![CDATA[165 × 234]]></value>
@@ -121,34 +121,34 @@
     <value><![CDATA[フレーム]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Customsize">
-    <value><![CDATA[カスタムサイズ\nフレームツールを選択し、カーソルをドラッグして希望のサイズでフレームを作成します。]]></value>
+    <value><![CDATA[カスタムサイズ\nフレームツールを選択し、カーソルをクリック＆ドラッグして任意のサイズのフレームを作成します。]]></value>
   </data>
   <data name="FigmaBasics..CustomSizes.Shortcut.macOSandWi">
     <value><![CDATA[macOSとWinのショートカット]]></value>
   </data>
   <data name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F">
-    <value><![CDATA[ファイル]]></value>
+    <value><![CDATA[F]]></value>
   </data>
   <data name="FigmaBasics.PresetSizes.Presetsize">
-    <value><![CDATA[プリセットサイズ\n右側のプロパティパネルでプリセットを選択して、iPhone Xなどのプリセットサイズでフレームを作成します。]]></value>
+    <value><![CDATA[プリセットサイズ\nプロパティパネル（右側）でプリセットを選択し、iPhone Xなどのプリセットサイズでフレームを作成します。]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Existingel">
-    <value><![CDATA[既存要素からフレームを作成\nキャンバス上の要素を右クリックして「選択範囲をフレーム化」を選択]]></value>
+    <value><![CDATA[既存の要素\nキャンバス上の既存の要素を右クリックし、「選択範囲をフレーム化」を選択してフレームを作成します。]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.macOSshort">
     <value><![CDATA[macOSショートカット]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
-    <value><![CDATA[Settings]]></value>
+    <value><![CDATA[⌥]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
     <value><![CDATA[⌘]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group23.G">
-    <value><![CDATA[G]]></value>
+    <value><![CDATA[Ｇ]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Winshortcu">
-    <value><![CDATA[ウィンドウショートカット]]></value>
+    <value><![CDATA[ショートカットを獲得]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group24.Ctrl">
     <value><![CDATA[Ctrl]]></value>
@@ -164,5 +164,20 @@
   </data>
   <data name="FigmaBasics.SelecttheFrameTool">
     <value><![CDATA[フレームツールを選択し、点線に沿ってクリックしてドラッグして新しいフレームを作成します。]]></value>
+  </data>
+  <data name="FigmaBasics.1">
+    <value><![CDATA[1]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Shortcut.macOSandWi">
+    <value><![CDATA[macOSã¨Windowsã®ã·ã§ã¼ãã«ãã]]></value>
+  </data>
+  <data name="FigmaBasics.SelecttheF">
+    <value><![CDATA[ãã¬ã¼ã ãã¼ã«              ãé¸æããç¹ç·ã«æ²¿ã£ã¦ã¯ãªãã¯ï¼ãã©ãã°ãã¦æ°ãããã¬ã¼ã ãä½æãã¾ãã]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
+    <value><![CDATA[ã«ã©ã¼ã¹ã¿ã¤ã«ã®ä½ææ¹æ³\nã¹ã¿ã¤ã«ãä½æããããªãã¸ã§ã¯ããé¸æãããã­ããã£ããã«ã§ä¿å­ããããã­ããã£ã®æ¨ªã«ããã¹ã¿ã¤ã«ã¢ã¤ã³ã³ãã¯ãªãã¯ãã¾ããã+ãã¢ã¤ã³ã³ãã¯ãªãã¯ããã¨ãã¹ã¿ã¤ã«ã®ååãå¥åããããæ±ãããã¾ãã]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
+    <value><![CDATA[ãã­ã¹ãã¹ã¿ã¤ã«ã®ä½ææ¹æ³\nã¹ã¿ã¤ã«ãä½æããããã­ã¹ããé¸æãããã­ããã£ããã«ã®ãã­ã¹ããã­ããã£åã«ããã¹ã¿ã¤ã«ã¢ã¤ã³ã³ãã¯ãªãã¯ãã¾ããã+ãã¢ã¤ã³ã³ãã¯ãªãã¯ããã¨ãã¹ã¿ã¤ã«ã®ååãå¥åããããæ±ãããã¾ãã]]></value>
   </data>
 </root>
