@@ -94,13 +94,13 @@
     <value><![CDATA[Ausprobieren]]></value>
   </data>
   <data name="FigmaBasics.4Styles.TheStylesf">
-    <value><![CDATA[Mit der Funktion „Stile" können Sie Eigenschaften wie Farbe, Schrift und Effekte eines Objekts festlegen und im gesamten Team wiederverwenden. Wenn Sie die Eigenschaften eines Stils ändern, werden alle Objekte, die diesen Stil verwenden, sofort aktualisiert.]]></value>
+    <value><![CDATA[Stile – damit legen Sie wiederverwendbare Eigenschaften wie Farben, Schriftarten und Effekte für Objekte fest, die im gesamten Team genutzt werden können. Änderungen an den Stileigenschaften wirken sich sofort auf alle Objekte aus, die diesen Stil verwenden.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.1Createane">
-    <value><![CDATA[1. Einen neuen Stil erstellen\nWähle den Text aus der ersten Sprechblase unten aus und erstelle daraus einen neuen Textstil. Versuche dabei auch, einen Farbstil aus derselben Textauswahl zu erstellen.]]></value>
+    <value><![CDATA[Erstelle einen neuen Stil\nWähle den Text aus der 1. Chatblase unten aus und erstelle daraus einen neuen Textstil. Erstelle dabei auch einen neuen Farbstil aus derselben Textauswahl.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.2ApplyingS">
-    <value><![CDATA[2. Stile anwenden\nBeachte, dass die 2. und 3. Sprechblase anderen Text und eine andere Farbe haben? Wende deine neu erstellten Text- und Farbstile auf sie an, damit sie einheitlich sind.]]></value>
+    <value><![CDATA[2. Stile anwenden\nBeobachte, wie die 2. und 3. Chat-Blasen unterschiedlichen Text und Farbe haben? Wende deine neu erstellten Text- und Farbstile auf sie an, damit sie alle einheitlich aussehen.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.4">
     <value><![CDATA[4]]></value>
@@ -139,10 +139,10 @@
     <value><![CDATA[macOS-Tastenkombination]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
-    <value><![CDATA[⌥]]></value>
+    <value><![CDATA[Einstellungen]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
-    <value><![CDATA[⌘]]></value>
+    <value><![CDATA[Cmd]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group23.G">
     <value><![CDATA[G]]></value>
@@ -165,6 +165,12 @@
   <data name="FigmaBasics.SelecttheFrameTool">
     <value><![CDATA[Wählen Sie das Rahmen-Werkzeug aus und ziehen Sie mit gedrückter Maustaste entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></value>
   </data>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
+    <value><![CDATA[So erstellen Sie Farbstile\nWÃ¤hlen Sie das Objekt aus, fÃ¼r das Sie einen Stil erstellen mÃ¶chten, und klicken Sie im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die Sie speichern mÃ¶chten. Klicken Sie auf das â+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
+    <value><![CDATA[So erstellen Sie Textstile\nWÃ¤hlen Sie den Text aus, fÃ¼r den Sie einen Stil erstellen mÃ¶chten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das â+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></value>
+  </data>
   <data name="FigmaBasics.1">
     <value><![CDATA[1]]></value>
   </data>
@@ -173,11 +179,5 @@
   </data>
   <data name="FigmaBasics.SelecttheF">
     <value><![CDATA[WÃ¤hlen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></value>
-  </data>
-  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
-    <value><![CDATA[So erstellen Sie Farbstile\nWÃ¤hlen Sie das Objekt aus, fÃ¼r das Sie einen Stil erstellen mÃ¶chten, und klicken Sie im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die Sie speichern mÃ¶chten. Klicken Sie auf das â+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></value>
-  </data>
-  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
-    <value><![CDATA[So erstellen Sie Textstile\nWÃ¤hlen Sie den Text aus, fÃ¼r den Sie einen Stil erstellen mÃ¶chten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das â+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></value>
   </data>
 </root>

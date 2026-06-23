@@ -94,13 +94,13 @@
     <value><![CDATA[Prueba]]></value>
   </data>
   <data name="FigmaBasics.4Styles.TheStylesf">
-    <value><![CDATA[La función Estilos te permite definir un conjunto de propiedades como color, fuente y efectos de un objeto, que se pueden reutilizar en los diseños de tu equipo. Cada vez que modifiques las propiedades de un estilo, los objetos que lo usen se actualizarán al instante.]]></value>
+    <value><![CDATA[La función Estilos te permite definir un conjunto de propiedades como color, fuente y efectos de un objeto, que se pueden reutilizar en los diseños de tu equipo. Cada vez que modifiques las propiedades de un Estilo, todos los objetos que lo usen se actualizarán al instante.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.1Createane">
-    <value><![CDATA[Crear un nuevo Estilo\nSelecciona el texto del primer globo de chat a continuación y crea un nuevo Estilo de Texto a partir de él. Mientras lo haces, también intenta crear un Estilo de Color a partir de la misma selección.]]></value>
+    <value><![CDATA[Crear nuevo estilo\nSelecciona el texto del primer globo de chat y crea un nuevo Estilo de texto a partir de él. Mientras lo haces, intenta también crear un Estilo de color con la misma selección.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.2ApplyingS">
-    <value><![CDATA[Aplicar estilos\nObserva cómo los 2º y 3º globos de chat tienen texto y color distintos? Prueba a aplicar los nuevos Estilos de Texto y Color que has creado para que todos sean consistentes.]]></value>
+    <value><![CDATA[Aplicar estilos\n\nObserva cómo los segundos y terceros globos de chat tienen texto y color distintos? Intenta aplicar los estilos de Texto y Color que acabas de crear para que todos sean consistentes.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.4">
     <value><![CDATA[4]]></value>
@@ -139,7 +139,7 @@
     <value><![CDATA[Atajo de macOS]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
-    <value><![CDATA[Ajustar]]></value>
+    <value><![CDATA[Opciones]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
     <value><![CDATA[⌘]]></value>
@@ -163,6 +163,21 @@
     <value><![CDATA[Prueba]]></value>
   </data>
   <data name="FigmaBasics.SelecttheFrameTool">
+    <value><![CDATA[Selecciona la Herramienta de Marco y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
+    <value><![CDATA[Cómo crear Estilos de color\nSelecciona el objeto para el que quieres crear un Estilo y, en el panel Propiedades, haz clic en el icono Estilos junto a la propiedad que deseas guardar. Haz clic en el icono "+" y se te pedirá que nombres tu Estilo.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
+    <value><![CDATA[Cómo crear Estilos de texto\nSelecciona el texto para el que deseas crear un Estilo y haz clic en el icono Estilo en las propiedades de texto del panel Propiedades. Haz clic en el icono “+” y se te pedirá que asignes un nombre a tu Estilo.]]></value>
+  </data>
+  <data name="FigmaBasics.1">
+    <value><![CDATA[1]]></value>
+  </data>
+  <data name="FigmaBasics.CustomSizes.Shortcut.macOSandWi">
+    <value><![CDATA[macOS y Win atajo]]></value>
+  </data>
+  <data name="FigmaBasics.SelecttheF">
     <value><![CDATA[Selecciona la Herramienta de Marco y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.]]></value>
   </data>
 </root>

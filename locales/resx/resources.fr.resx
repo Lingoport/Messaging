@@ -94,13 +94,13 @@
     <value><![CDATA[Essayer]]></value>
   </data>
   <data name="FigmaBasics.4Styles.TheStylesf">
-    <value><![CDATA[La fonctionnalité Styles vous permet de définir un ensemble de propriétés telles que la couleur, la police et les effets d\'un objet, réutilisables dans les designs de votre équipe. Toute modification des propriétés d\'un Style met instantanément à jour les objets qui l\'utilisent.]]></value>
+    <value><![CDATA[Styles\nDéfinissez des propriétés réutilisables (couleur, police, effets) pour vos objets. Les modifications s’appliquent instantanément à tous les objets associés.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.1Createane">
-    <value><![CDATA[1. Créer un nouveau Style\nSélectionnez le texte de la 1ère bulle de discussion ci-dessous et créez un nouveau Style de texte à partir de celui-ci. Profitez-en également pour créer un Style de couleur à partir de la même sélection de texte.]]></value>
+    <value><![CDATA[Créer un nouveau style\nSélectionnez le texte de la 1ère bulle de discussion ci-dessous et créez un nouveau style de texte à partir de celui-ci. Profitez-en pour créer également un style de couleur à partir de la même sélection.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.2ApplyingS">
-    <value><![CDATA[2. Application des styles\nVous remarquez que les 2e et 3e bulles de discussion ont un texte et une couleur différents ? Appliquez vos styles de texte et de couleur nouvellement créés pour les uniformiser.]]></value>
+    <value><![CDATA[Appliquer des styles\nRemarquez que les 2e et 3e bulles de discussion ont un texte et une couleur différents ? Appliquez vos nouveaux styles de texte et de couleur pour les uniformiser.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.4">
     <value><![CDATA[4]]></value>
@@ -139,7 +139,7 @@
     <value><![CDATA[Raccourci macOS]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group21">
-    <value><![CDATA[⌥]]></value>
+    <value><![CDATA[Options]]></value>
   </data>
   <data name="FigmaBasics.ExistingElements.Shortcut.Group22">
     <value><![CDATA[⌘]]></value>
@@ -165,6 +165,12 @@
   <data name="FigmaBasics.SelecttheFrameTool">
     <value><![CDATA[Sélectionnez l'outil **Cadre**\npuis cliquez et faites glisser le long de la ligne pointillée pour créer un nouveau cadre.]]></value>
   </data>
+  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
+    <value><![CDATA[Comment crÃ©er des styles de couleurs\nSÃ©lectionnez l\'objet pour lequel vous souhaitez crÃ©er un style et, dans le panneau PropriÃ©tÃ©s, cliquez sur l\'icÃ´ne Styles Ã  cÃ´tÃ© de la propriÃ©tÃ© Ã  enregistrer. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  nommer votre style.]]></value>
+  </data>
+  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
+    <value><![CDATA[Comment crÃ©er des styles de texte\nSÃ©lectionnez le texte pour lequel vous souhaitez crÃ©er un style et cliquez sur l\'icÃ´ne Style dans les propriÃ©tÃ©s de texte du panneau PropriÃ©tÃ©s. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  donner un nom Ã  votre style.]]></value>
+  </data>
   <data name="FigmaBasics.1">
     <value><![CDATA[1]]></value>
   </data>
@@ -173,11 +179,5 @@
   </data>
   <data name="FigmaBasics.SelecttheF">
     <value><![CDATA[SÃ©lectionnez l\'outil Cadre              et cliquez-glissez le long de la ligne pointillÃ©e pour crÃ©er un nouveau cadre.]]></value>
-  </data>
-  <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
-    <value><![CDATA[Comment crÃ©er des styles de couleurs\nSÃ©lectionnez l\'objet pour lequel vous souhaitez crÃ©er un style et, dans le panneau PropriÃ©tÃ©s, cliquez sur l\'icÃ´ne Styles Ã  cÃ´tÃ© de la propriÃ©tÃ© Ã  enregistrer. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  nommer votre style.]]></value>
-  </data>
-  <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
-    <value><![CDATA[Comment crÃ©er des styles de texte\nSÃ©lectionnez le texte pour lequel vous souhaitez crÃ©er un style et cliquez sur l\'icÃ´ne Style dans les propriÃ©tÃ©s de texte du panneau PropriÃ©tÃ©s. Cliquez sur l\'icÃ´ne "+" et vous serez invitÃ© Ã  donner un nom Ã  votre style.]]></value>
   </data>
 </root>
