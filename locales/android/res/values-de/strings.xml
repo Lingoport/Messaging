@@ -11,22 +11,27 @@
   <string translatable="true" name="FigmaBasics.4Styles.4"><![CDATA[4]]></string>
   <string translatable="true" name="FigmaBasics.1Frames.1"><![CDATA[1]]></string>
   <string translatable="true" name="FigmaBasics.Frames"><![CDATA[Rahmen]]></string>
-  <string translatable="true" name="FigmaBasics.FramesinFi"><![CDATA[Rahmen in Figma sind das, was du in anderen Design-Tools als Arbeitsflächen kennst. Rahmen sind ein grundlegendes Element deiner Designs und dienen als oberste Container für die meisten Elemente, die du in Figma erstellst. Es gibt verschiedene Möglichkeiten, Rahmen in Figma zu erstellen:]]></string>
+  <string translatable="true" name="FigmaBasics.FramesinFi"><![CDATA[Frames in Figma sind das, was du in anderen Design-Tools als Artboards kennst. Frames sind ein grundlegendes Element für deine Designs und dienen als Container der obersten Ebene für die meisten Inhalte, die du in Figma erstellst. Es gibt verschiedene Möglichkeiten, Frames in Figma zu erstellen:]]></string>
   <string translatable="true" name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234"><![CDATA[165 × 234]]></string>
   <string translatable="true" name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame"><![CDATA[Rahmen]]></string>
-  <string translatable="true" name="FigmaBasics.CustomSizes.Customsize"><![CDATA[Benutzerdefinierte Größen\nErstelle benutzerdefinierte Rahmen mit dem Rahmen-Werkzeug und ziehe mit der Maus die gewünschte Größe auf.]]></string>
+  <string translatable="true" name="FigmaBasics.CustomSizes.Customsize"><![CDATA[Benutzerdefinierte Größen\nErstellen Sie benutzerdefinierte Rahmen, indem Sie das Rahmen-Werkzeug auswählen und den Cursor auf die gewünschte Größe ziehen.]]></string>
   <string translatable="true" name="FigmaBasics..CustomSizes.Shortcut.macOSandWi"><![CDATA[macOS- und Win-Tastaturkurzbefehle]]></string>
   <string translatable="true" name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F"><![CDATA[F]]></string>
-  <string translatable="true" name="FigmaBasics.PresetSizes.Presetsize"><![CDATA[Vorgegebene Größen\nErstelle Rahmen mit vorgegebenen Größen, z. B. iPhone X, indem du die Vorgabe im Eigenschaftenbereich rechts auswählst.]]></string>
-  <string translatable="true" name="FigmaBasics.ExistingElements.Existingel"><![CDATA[Bestehende Elemente\nErstelle Rahmen aus ausgewählten Elementen auf der Leinwand durch Rechtsklick und Auswahl von „Rahmen auswählen“.]]></string>
+  <string translatable="true" name="FigmaBasics.PresetSizes.Presetsize"><![CDATA[Voreingestellte Größen\nErstellen Sie Frames mit voreingestellten Größen, z. B. iPhone X, indem Sie die Voreinstellung im Eigenschaften-Panel auf der rechten Seite auswählen.]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Existingel"><![CDATA[Vorhandene Elemente\nErstellen Sie Frames aus vorhandenen Elementen auf der Arbeitsfläche, indem Sie mit der rechten Maustaste klicken und „Auswahl einrahmen" wählen.]]></string>
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.macOSshort"><![CDATA[macOS-Tastenkombination]]></string>
-  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group21"><![CDATA[Einstellungen]]></string>
-  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group22"><![CDATA[Klicken Sie auf ⌘]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group21"><![CDATA[⌥]]></string>
+  <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group22"><![CDATA[⌘]]></string>
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group23.G"><![CDATA[G]]></string>
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Winshortcu"><![CDATA[Gewinn-Verknüpfung]]></string>
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group24.Ctrl"><![CDATA[Strg]]></string>
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group25.Alt"><![CDATA[Alt]]></string>
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
-  <string translatable="true" name="FigmaBasics.Tryitout"><![CDATA[Probiere es aus]]></string>
+  <string translatable="true" name="FigmaBasics.Tryitout"><![CDATA[Ausprobieren]]></string>
   <string translatable="true" name="FigmaBasics.SelecttheFrameTool"><![CDATA[Wähle das Rahmen-Werkzeug aus und klicke und ziehe entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></string>
+  <string name="FigmaBasics.1" translatable="true"><![CDATA[1]]></string>
+  <string name="FigmaBasics.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS- und Windows-Tastenkürzel]]></string>
+  <string name="FigmaBasics.SelecttheF" translatable="true"><![CDATA[Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></string>
+  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreat" translatable="true"><![CDATA[So erstellen Sie Farbstile\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></string>
+  <string name="FigmaBasics.4Styles.Textstyles.Howtocreat" translatable="true"><![CDATA[So erstellen Sie Textstile\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das „+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></string>
 </resources>

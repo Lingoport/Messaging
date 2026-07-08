@@ -29,4 +29,9 @@
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
   <string translatable="true" name="FigmaBasics.Tryitout"><![CDATA[Try it out]]></string>
   <string translatable="true" name="FigmaBasics.SelecttheFrameTool"><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></string>
+  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreat" translatable="true"><![CDATA[How to create Color Styles\nSelect the object you’d like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the “+” icon and you’ll be prompted to give your Style a name.]]></string>
+  <string name="FigmaBasics.4Styles.Textstyles.Howtocreat" translatable="true"><![CDATA[How to create Text Styles\nSelect the text you’d like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the “+” icon and you’ll be prompted to give your Style a name.]]></string>
+  <string name="FigmaBasics.1" translatable="true"><![CDATA[1]]></string>
+  <string name="FigmaBasics.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS and Win shortcut]]></string>
+  <string name="FigmaBasics.SelecttheF" translatable="true"><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></string>
 </resources>
