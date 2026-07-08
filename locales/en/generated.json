@@ -27,5 +27,10 @@
   "FigmaBasics.ExistingElements.Shortcut.Group25.Alt": "Alt",
   "FigmaBasics.ExistingElements.Shortcut.Group26.G": "G",
   "FigmaBasics.Tryitout": "Try it out",
-  "FigmaBasics.SelecttheFrameTool": "Select the Frame Tool              and click and drag along the dotted line to create a new frame."
+  "FigmaBasics.SelecttheFrameTool": "Select the Frame Tool              and click and drag along the dotted line to create a new frame.",
+  "FigmaBasics.4Styles.Colorstyles.Howtocreat": "How to create Color Styles\\nSelect the object you’d like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the “+” icon and you’ll be prompted to give your Style a name.",
+  "FigmaBasics.4Styles.Textstyles.Howtocreat": "How to create Text Styles\\nSelect the text you’d like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the “+” icon and you’ll be prompted to give your Style a name.",
+  "FigmaBasics.1": "1",
+  "FigmaBasics.CustomSizes.Shortcut.macOSandWi": "macOS and Win shortcut",
+  "FigmaBasics.SelecttheF": "Select the Frame Tool              and click and drag along the dotted line to create a new frame."
 }
