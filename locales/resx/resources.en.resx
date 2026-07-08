@@ -166,10 +166,10 @@
     <value><![CDATA[Select the Frame Tool              and click and drag along the dotted line to create a new frame.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
-    <value><![CDATA[How to create Color Styles\nSelect the object youâd like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the â+â icon and youâll be prompted to give your Style a name.]]></value>
+    <value><![CDATA[How to create Color Styles\nSelect the object you’d like to create a Style for and in the Properties panel, click the Styles icon next to the property you would like to save. Click the “+” icon and you’ll be prompted to give your Style a name.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
-    <value><![CDATA[How to create Text Styles\nSelect the text youâd like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the â+â icon and youâll be prompted to give your Style a name.]]></value>
+    <value><![CDATA[How to create Text Styles\nSelect the text you’d like to create a Style for and click the Style icon within the text properties in the Properties panel. Click the “+” icon and you’ll be prompted to give your Style a name.]]></value>
   </data>
   <data name="FigmaBasics.1">
     <value><![CDATA[1]]></value>
