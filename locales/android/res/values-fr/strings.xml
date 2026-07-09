@@ -29,9 +29,9 @@
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
   <string translatable="true" name="FigmaBasics.Tryitout"><![CDATA[Essayez-le]]></string>
   <string translatable="true" name="FigmaBasics.SelecttheFrameTool"><![CDATA[Sélectionnez l'outil **Cadre** puis cliquez et faites glisser le long de la ligne pointillée pour créer un nouveau cadre.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Colorstyles.Howtocreat"><![CDATA[Comment créer des Styles de couleur\nSélectionnez l’objet pour lequel vous souhaitez créer un Style, puis dans le panneau Propriétés, cliquez sur l’icône Styles à côté de la propriété à enregistrer. Cliquez sur l’icône « + » et saisissez un nom pour votre Style.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Textstyles.Howtocreat"><![CDATA[Comment créer des Styles de texte\nSélectionnez le texte pour lequel vous souhaitez créer un Style, puis cliquez sur l’icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l’icône « + » et vous serez invité·e à nommer votre Style.]]></string>
   <string name="FigmaBasics.1" translatable="true"><![CDATA[1]]></string>
   <string name="FigmaBasics.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS et raccourci Win]]></string>
   <string name="FigmaBasics.SelecttheF" translatable="true"><![CDATA[Sélectionnez l\'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre.]]></string>
-  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreat" translatable="true"><![CDATA[Comment créer des styles de couleurs\nSélectionnez l\'objet pour lequel vous souhaitez créer un style et, dans le panneau Propriétés, cliquez sur l\'icône Styles à côté de la propriété à enregistrer. Cliquez sur l\'icône "+" et vous serez invité à nommer votre style.]]></string>
-  <string name="FigmaBasics.4Styles.Textstyles.Howtocreat" translatable="true"><![CDATA[Comment créer des styles de texte\nSélectionnez le texte pour lequel vous souhaitez créer un style et cliquez sur l\'icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l\'icône "+" et vous serez invité à donner un nom à votre style.]]></string>
 </resources>

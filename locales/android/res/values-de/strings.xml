@@ -29,9 +29,9 @@
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
   <string translatable="true" name="FigmaBasics.Tryitout"><![CDATA[Ausprobieren]]></string>
   <string translatable="true" name="FigmaBasics.SelecttheFrameTool"><![CDATA[Wähle das Rahmen-Werkzeug aus und klicke und ziehe entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Colorstyles.Howtocreat"><![CDATA[So erstellen Sie Farbstile\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaftenbereich auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+“-Symbol und Sie werden aufgefordert, Ihrem Stil einen Namen zu geben.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Textstyles.Howtocreat"><![CDATA[So erstellen Sie Textstile\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaftenbereich in den Texteigenschaften auf das Stile-Symbol. Klicken Sie auf das „+“-Symbol und Sie werden aufgefordert, Ihrem Stil einen Namen zu geben.]]></string>
   <string name="FigmaBasics.1" translatable="true"><![CDATA[1]]></string>
   <string name="FigmaBasics.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOS- und Windows-Tastenkürzel]]></string>
   <string name="FigmaBasics.SelecttheF" translatable="true"><![CDATA[Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></string>
-  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreat" translatable="true"><![CDATA[So erstellen Sie Farbstile\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></string>
-  <string name="FigmaBasics.4Styles.Textstyles.Howtocreat" translatable="true"><![CDATA[So erstellen Sie Textstile\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das „+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></string>
 </resources>

@@ -1,12 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="FigmaBasics.1" translatable="true"><![CDATA[1]]></string>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+  <string name="delete_me">削除</string>
+  <string translatable="true" name="FigmaBasics.4Styles.Colorstyles.Howtocreate"><![CDATA[カラースタイルを作成する方法\n対象のオブジェクトを選択し、プロパティパネルでスタイルを保存したいプロパティの横にあるスタイルアイコンをクリックします。[+]アイコンをクリックすると、スタイルに名前を付けるよう求められます。]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Textstyles.Howtocreate"><![CDATA[テキストスタイルの作成方法\nスタイルを作成したいテキストを選択し、プロパティパネル内のテキストプロパティにあるスタイルアイコンをクリックします。\n「+」アイコンをクリックすると、スタイルに名前を付けるよう求められます。]]></string>
+  <string name="FigmaBasics.4Styles.Styles" translatable="true"><![CDATA[スタイル]]></string>
+  <string name="FigmaBasics.4Styles.Tryitout" translatable="true"><![CDATA[試してみる]]></string>
+  <string name="FigmaBasics.4Styles.TheStylesf" translatable="true"><![CDATA[スタイル機能を使用すると、カラー、フォント、エフェクトなどのオブジェクトプロパティをスタイルとして定義し、チームのデザイン全体で再利用できます。スタイルのプロパティを変更すると、そのスタイルを使用しているすべてのオブジェクトに即座に反映されます。]]></string>
+  <string name="FigmaBasics.4Styles.1Createane" translatable="true"><![CDATA[1. 新しいスタイルを作成する\n下の最初のチャットバブルからテキストを選択し、新しいテキストスタイルを作成してください。同時に、同じテキスト選択からカラースタイルも作成してみてください。]]></string>
+  <string name="FigmaBasics.4Styles.2ApplyingS" translatable="true"><![CDATA[2. スタイルの適用\n2番目と3番目のチャットバブルのテキストと色が異なることに気づきましたか？作成したテキストとカラースタイルを適用して、統一感を出してみましょう。]]></string>
+  <string name="FigmaBasics.4Styles.4" translatable="true"><![CDATA[4]]></string>
+  <string translatable="true" name="FigmaBasics.1Frames.1"><![CDATA[1]]></string>
   <string name="FigmaBasics.Frames" translatable="true"><![CDATA[フレーム]]></string>
   <string name="FigmaBasics.FramesinFi" translatable="true"><![CDATA[FigmaのフレームはFigma、他のデザインツールでいう「アートボード」に相当します。フレームはデザインの基本要素であり、Figmaで作成するほとんどのオブジェクトのトップレベルコンテナとして機能します。Figmaでフレームを作成する方法はいくつかあります：]]></string>
   <string name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.165234" translatable="true"><![CDATA[165 × 234]]></string>
   <string name="FigmaBasics.CustomSizes.Image.SelectionboundsFrame.Frame" translatable="true"><![CDATA[フレーム]]></string>
   <string name="FigmaBasics.CustomSizes.Customsize" translatable="true"><![CDATA[カスタムサイズ\nフレームツールを選択し、カーソルをクリック＆ドラッグして任意のサイズのフレームを作成します。]]></string>
-  <string name="FigmaBasics.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOSとWindowsのショートカット]]></string>
+  <string translatable="true" name="FigmaBasics..CustomSizes.Shortcut.macOSandWi"><![CDATA[macOSとWinのショートカット]]></string>
   <string name="FigmaBasics.CustomSizes.Shortcut.Shortcutkey.F" translatable="true"><![CDATA[F]]></string>
   <string name="FigmaBasics.PresetSizes.Presetsize" translatable="true"><![CDATA[プリセットサイズ\nプロパティパネル（右側）でプリセットを選択し、iPhone Xなどのプリセットサイズでフレームを作成します。]]></string>
   <string name="FigmaBasics.ExistingElements.Existingel" translatable="true"><![CDATA[既存の要素\nキャンバス上の既存の要素を右クリックし、「選択範囲をフレーム化」を選択してフレームを作成します。]]></string>
@@ -19,13 +28,10 @@
   <string name="FigmaBasics.ExistingElements.Shortcut.Group25.Alt" translatable="true"><![CDATA[代替]]></string>
   <string name="FigmaBasics.ExistingElements.Shortcut.Group26.G" translatable="true"><![CDATA[G]]></string>
   <string name="FigmaBasics.Tryitout" translatable="true"><![CDATA[試してみる]]></string>
+  <string translatable="true" name="FigmaBasics.SelecttheFrameTool"><![CDATA[フレームツールを選択し、点線に沿ってクリックしてドラッグして新しいフレームを作成します。]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Colorstyles.Howtocreat"><![CDATA[カラースタイルの作成方法\nスタイルを作成したいオブジェクトを選択し、プロパティパネルで保存したいプロパティの横にあるスタイルアイコンをクリックします。[+]アイコンをクリックすると、スタイルに名前を付けるよう求められます。]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Textstyles.Howtocreat"><![CDATA[テキストスタイルの作成方法\nスタイルを作成したいテキストを選択し、プロパティパネル内のテキストプロパティにあるスタイルアイコンをクリックします。\n「+」アイコンをクリックすると、スタイルに名前を付けるよう求められます。]]></string>
+  <string name="FigmaBasics.1" translatable="true"><![CDATA[1]]></string>
+  <string name="FigmaBasics.CustomSizes.Shortcut.macOSandWi" translatable="true"><![CDATA[macOSとWindowsのショートカット]]></string>
   <string name="FigmaBasics.SelecttheF" translatable="true"><![CDATA[フレームツール              を選択し、点線に沿ってクリック＆ドラッグして新しいフレームを作成します。]]></string>
-  <string name="FigmaBasics.4Styles.Colorstyles.Howtocreat" translatable="true"><![CDATA[カラースタイルの作成方法\nスタイルを作成したいオブジェクトを選択し、プロパティパネルで保存したいプロパティの横にあるスタイルアイコンをクリックします。「+」アイコンをクリックすると、スタイルの名前を入力するよう求められます。]]></string>
-  <string name="FigmaBasics.4Styles.Textstyles.Howtocreat" translatable="true"><![CDATA[テキストスタイルの作成方法\nスタイルを作成したいテキストを選択し、プロパティパネルのテキストプロパティ内にあるスタイルアイコンをクリックします。「+」アイコンをクリックすると、スタイルの名前を入力するよう求められます。]]></string>
-  <string name="FigmaBasics.4Styles.Styles" translatable="true"><![CDATA[スタイル]]></string>
-  <string name="FigmaBasics.4Styles.Tryitout" translatable="true"><![CDATA[試してみる]]></string>
-  <string name="FigmaBasics.4Styles.TheStylesf" translatable="true"><![CDATA[スタイル機能を使用すると、カラー、フォント、エフェクトなどのオブジェクトプロパティをスタイルとして定義し、チームのデザイン全体で再利用できます。スタイルのプロパティを変更すると、そのスタイルを使用しているすべてのオブジェクトに即座に反映されます。]]></string>
-  <string name="FigmaBasics.4Styles.1Createane" translatable="true"><![CDATA[1. 新しいスタイルを作成する\n下の最初のチャットバブルからテキストを選択し、新しいテキストスタイルを作成してください。同時に、同じテキスト選択からカラースタイルも作成してみてください。]]></string>
-  <string name="FigmaBasics.4Styles.2ApplyingS" translatable="true"><![CDATA[2. スタイルの適用\n2番目と3番目のチャットバブルのテキストと色が異なることに気づきましたか？作成したテキストとカラースタイルを適用して、統一感を出してみましょう。]]></string>
-  <string name="FigmaBasics.4Styles.4" translatable="true"><![CDATA[4]]></string>
 </resources>

@@ -29,4 +29,9 @@
   <string translatable="true" name="FigmaBasics.ExistingElements.Shortcut.Group26.G"><![CDATA[G]]></string>
   <string translatable="true" name="FigmaBasics.Tryitout"><![CDATA[Prueba]]></string>
   <string translatable="true" name="FigmaBasics.SelecttheFrameTool"><![CDATA[Selecciona la Herramienta de Marco y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Colorstyles.Howtocreat"><![CDATA[Cómo crear Estilos de color\nSelecciona el objeto para el que quieres crear un Estilo y, en el panel Propiedades, haz clic en el icono Estilos junto a la propiedad que deseas guardar. Haz clic en el icono “+” y se te pedirá que asignes un nombre a tu Estilo.]]></string>
+  <string translatable="true" name="FigmaBasics.4Styles.Textstyles.Howtocreat"><![CDATA[Cómo crear Estilos de texto\nSelecciona el texto para el que quieres crear un Estilo y haz clic en el icono Estilo en las propiedades de texto del panel Propiedades. Haz clic en el icono “+” y se te pedirá que le des un nombre al Estilo.]]></string>
+  <string translatable="true" name="FigmaBasics.1"><![CDATA[Enviar]]></string>
+  <string translatable="true" name="FigmaBasics.CustomSizes.Shortcut.macOSandWi"><![CDATA[macOS y Win atajo]]></string>
+  <string translatable="true" name="FigmaBasics.SelecttheF"><![CDATA[Selecciona la Herramienta de Marco y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.]]></string>
 </resources>
