@@ -166,10 +166,10 @@
     <value><![CDATA[Wählen Sie das Rahmen-Werkzeug aus und ziehen Sie mit gedrückter Maustaste entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
-    <value><![CDATA[So erstellen Sie Farbstile\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></value>
+    <value><![CDATA[So erstellen Sie Farb-Stile\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaftenbereich auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+“-Symbol, und Sie werden aufgefordert, Ihrem Stil einen Namen zu geben.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
-    <value><![CDATA[So erstellen Sie Textstile\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das „+"-Symbol und geben Sie Ihrem Stil einen Namen.]]></value>
+    <value><![CDATA[So erstellen Sie Textstile\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaftenbereich auf das Stilisierungs-Symbol in den Texteigenschaften. Klicken Sie auf das „+“-Symbol und Sie werden aufgefordert, Ihrem Stil einen Namen zu geben.]]></value>
   </data>
   <data name="FigmaBasics.1">
     <value><![CDATA[1]]></value>

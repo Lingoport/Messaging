@@ -166,10 +166,10 @@
     <value><![CDATA[Sélectionnez l'outil **Cadre**\npuis cliquez et faites glisser le long de la ligne pointillée pour créer un nouveau cadre.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Colorstyles.Howtocreat">
-    <value><![CDATA[Comment créer des styles de couleurs\nSélectionnez l\'objet pour lequel vous souhaitez créer un style et, dans le panneau Propriétés, cliquez sur l\'icône Styles à côté de la propriété à enregistrer. Cliquez sur l\'icône "+" et vous serez invité à nommer votre style.]]></value>
+    <value><![CDATA[Comment créer des Styles de couleur\nSélectionnez l’objet pour lequel vous souhaitez créer un Style, puis dans le panneau Propriétés, cliquez sur l’icône Styles à côté de la propriété à enregistrer. Cliquez sur l’icône « + » et saisissez un nom pour votre Style.]]></value>
   </data>
   <data name="FigmaBasics.4Styles.Textstyles.Howtocreat">
-    <value><![CDATA[Comment créer des styles de texte\nSélectionnez le texte pour lequel vous souhaitez créer un style et cliquez sur l\'icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l\'icône "+" et vous serez invité à donner un nom à votre style.]]></value>
+    <value><![CDATA[Comment créer des Styles de texte\nSélectionnez le texte pour lequel vous souhaitez créer un Style, puis cliquez sur l’icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l’icône « + » et vous serez invité à nommer votre Style.]]></value>
   </data>
   <data name="FigmaBasics.1">
     <value><![CDATA[1]]></value>
