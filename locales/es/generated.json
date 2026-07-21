@@ -1,5 +1,4 @@
 {
-  "to.be.removed": "Eliminarme",
   "FigmaBasics.4Styles.Colorstyles.Howtocreate": "Cómo crear estilos de color\\nSelecciona el objeto para el que deseas crear un estilo y, en el panel Propiedades, haz clic en el ícono Estilos junto a la propiedad que deseas guardar. Haz clic en el ícono \"+\" y se te pedirá que asignes un nombre a tu estilo.",
   "FigmaBasics.4Styles.Textstyles.Howtocreate": "Cómo crear estilos de texto\\nSelecciona el texto para el que deseas crear un estilo y haz clic en el ícono de estilo en las propiedades de texto del panel Propiedades. Haz clic en el ícono \"+\" y se te pedirá que asignes un nombre a tu estilo.",
   "FigmaBasics.4Styles.Styles": "Estilos",
@@ -32,5 +31,9 @@
   "FigmaBasics.4Styles.Textstyles.Howtocreat": "Cómo crear Estilos de texto\\nSelecciona el texto para el que deseas crear un Estilo y haz clic en el ícono Estilo en las propiedades de texto del panel Propiedades. Haz clic en el ícono \"+\" y se te pedirá que asignes un nombre a tu Estilo.",
   "FigmaBasics.1": "1",
   "FigmaBasics.CustomSizes.Shortcut.macOSandWi": "macOS y Win atajo",
-  "FigmaBasics.SelecttheF": "Selecciona la herramienta Marco              y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco."
+  "FigmaBasics.SelecttheF": "Selecciona la herramienta Marco              y haz clic y arrastra a lo largo de la línea punteada para crear un nuevo marco.",
+  "VideoTest.Register.HelloWorld": "¡Hola Mundo!",
+  "VideoTest.Register.Thisisates": "Esto es una prueba",
+  "VideoTest.Register.Test": "Esto es una prueba",
+  "VideoTest.Register.Hi": "¡Hola Mundo!"
 }

@@ -1,5 +1,4 @@
 {
-  "to.be.removed": "削除する",
   "FigmaBasics.4Styles.Colorstyles.Howtocreate": "カラースタイルの作成方法\nスタイルを作成したいオブジェクトを選択し、プロパティパネルで保存したいプロパティの横にあるスタイルアイコンをクリックします。「+」アイコンをクリックすると、スタイルの名前を入力するよう求められます。",
   "FigmaBasics.4Styles.Textstyles.Howtocreate": "テキストスタイルの作成方法\nスタイルを作成したいテキストを選択し、プロパティパネルのテキストプロパティ内にあるスタイルアイコンをクリックします。「+」アイコンをクリックすると、スタイルの名前入力を求めるプロンプトが表示されます。",
   "FigmaBasics.4Styles.Styles": "スタイル",
@@ -32,5 +31,9 @@
   "FigmaBasics.4Styles.Textstyles.Howtocreat": "テキストスタイルの作成方法\\nスタイルを作成したいテキストを選択し、プロパティパネルのテキストプロパティ内にあるスタイルアイコンをクリックします。「+」アイコンをクリックすると、スタイルの名前を入力するよう求められます。",
   "FigmaBasics.1": "1",
   "FigmaBasics.CustomSizes.Shortcut.macOSandWi": "macOSとWindowsのショートカット",
-  "FigmaBasics.SelecttheF": "フレームツール              を選択し、点線に沿ってクリック＆ドラッグして新しいフレームを作成します。"
+  "FigmaBasics.SelecttheF": "フレームツール              を選択し、点線に沿ってクリック＆ドラッグして新しいフレームを作成します。",
+  "VideoTest.Register.HelloWorld": "こんにちは、世界！",
+  "VideoTest.Register.Thisisates": "これはテストです",
+  "VideoTest.Register.Test": "これはテストです",
+  "VideoTest.Register.Hi": "こんにちは、世界！"
 }

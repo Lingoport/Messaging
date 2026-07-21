@@ -1,5 +1,4 @@
 {
-  "to.be.removed": "Mich löschen",
   "FigmaBasics.4Styles.Colorstyles.Howtocreate": "Farbstile erstellen\\nWähle das Objekt aus, für das du einen Stil erstellen möchtest, und klicke im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die du speichern möchtest. Klicke auf das „+\"-Symbol und gib deinem Stil einen Namen.",
   "FigmaBasics.4Styles.Textstyles.Howtocreate": "So erstellen Sie Textstile\\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das „+\"-Symbol und geben Sie Ihrem Stil einen Namen.",
   "FigmaBasics.4Styles.Styles": "Stile",
@@ -28,9 +27,13 @@
   "FigmaBasics.ExistingElements.Shortcut.Group26.G": "G",
   "FigmaBasics.Tryitout": "Ausprobieren",
   "FigmaBasics.SelecttheFrameTool": "Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.",
+  "FigmaBasics.4Styles.Colorstyles.Howtocreat": "So erstellen Sie Farbstile\\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+\"-Symbol und geben Sie Ihrem Stil einen Namen.",
+  "FigmaBasics.4Styles.Textstyles.Howtocreat": "So erstellen Sie Textstile\\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das „+\"-Symbol und geben Sie Ihrem Stil einen Namen.",
   "FigmaBasics.1": "1",
   "FigmaBasics.CustomSizes.Shortcut.macOSandWi": "macOS- und Windows-Tastenkürzel",
   "FigmaBasics.SelecttheF": "Wählen Sie das Rahmen-Werkzeug              aus und klicken und ziehen Sie entlang der gepunkteten Linie, um einen neuen Rahmen zu erstellen.",
-  "FigmaBasics.4Styles.Colorstyles.Howtocreat": "So erstellen Sie Farbstile\\nWählen Sie das Objekt aus, für das Sie einen Stil erstellen möchten, und klicken Sie im Eigenschaften-Panel auf das Stile-Symbol neben der Eigenschaft, die Sie speichern möchten. Klicken Sie auf das „+\"-Symbol und geben Sie Ihrem Stil einen Namen.",
-  "FigmaBasics.4Styles.Textstyles.Howtocreat": "So erstellen Sie Textstile\\nWählen Sie den Text aus, für den Sie einen Stil erstellen möchten, und klicken Sie auf das Stil-Symbol in den Texteigenschaften im Eigenschaften-Panel. Klicken Sie auf das „+\"-Symbol und geben Sie Ihrem Stil einen Namen."
+  "VideoTest.Register.HelloWorld": "Hallo Welt!",
+  "VideoTest.Register.Thisisates": "Dies ist ein Test",
+  "VideoTest.Register.Test": "Dies ist ein Test",
+  "VideoTest.Register.Hi": "Hallo Welt!"
 }

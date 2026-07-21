@@ -1,5 +1,4 @@
 {
-  "to.be.removed": "Supprimer",
   "FigmaBasics.4Styles.Colorstyles.Howtocreate": "Comment créer des styles de couleur\\nSélectionnez l'objet pour lequel vous souhaitez créer un style et, dans le panneau Propriétés, cliquez sur l'icône Styles en regard de la propriété à enregistrer. Cliquez sur l'icône « + » et vous serez invité à nommer votre style.",
   "FigmaBasics.4Styles.Textstyles.Howtocreate": "Comment créer des styles de texte\\nSélectionnez le texte pour lequel vous souhaitez créer un style et cliquez sur l'icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l'icône \"+\" et vous serez invité à donner un nom à votre style.",
   "FigmaBasics.4Styles.Styles": "Styles",
@@ -28,9 +27,13 @@
   "FigmaBasics.ExistingElements.Shortcut.Group26.G": "G",
   "FigmaBasics.Tryitout": "Essayez-le",
   "FigmaBasics.SelecttheFrameTool": "Sélectionnez l'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre.",
+  "FigmaBasics.4Styles.Colorstyles.Howtocreat": "Comment créer des styles de couleurs\\nSélectionnez l\\'objet pour lequel vous souhaitez créer un style et, dans le panneau Propriétés, cliquez sur l\\'icône Styles à côté de la propriété à enregistrer. Cliquez sur l\\'icône \"+\" et vous serez invité à nommer votre style.",
+  "FigmaBasics.4Styles.Textstyles.Howtocreat": "Comment créer des styles de texte\\nSélectionnez le texte pour lequel vous souhaitez créer un style et cliquez sur l\\'icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l\\'icône \"+\" et vous serez invité à donner un nom à votre style.",
   "FigmaBasics.1": "1",
   "FigmaBasics.CustomSizes.Shortcut.macOSandWi": "macOS et raccourci Win",
   "FigmaBasics.SelecttheF": "Sélectionnez l\\'outil Cadre              et cliquez-glissez le long de la ligne pointillée pour créer un nouveau cadre.",
-  "FigmaBasics.4Styles.Colorstyles.Howtocreat": "Comment créer des styles de couleurs\\nSélectionnez l\\'objet pour lequel vous souhaitez créer un style et, dans le panneau Propriétés, cliquez sur l\\'icône Styles à côté de la propriété à enregistrer. Cliquez sur l\\'icône \"+\" et vous serez invité à nommer votre style.",
-  "FigmaBasics.4Styles.Textstyles.Howtocreat": "Comment créer des styles de texte\\nSélectionnez le texte pour lequel vous souhaitez créer un style et cliquez sur l\\'icône Style dans les propriétés de texte du panneau Propriétés. Cliquez sur l\\'icône \"+\" et vous serez invité à donner un nom à votre style."
+  "VideoTest.Register.HelloWorld": "Bonjour le monde !",
+  "VideoTest.Register.Thisisates": "Ceci est un test",
+  "VideoTest.Register.Test": "Ceci est un test",
+  "VideoTest.Register.Hi": "Bonjour le monde !"
 }
