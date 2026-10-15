@@ -1,10 +1,10 @@
 {
   "F9220_Register_1": "Registrieren",
   "F9220_next_2": "Weiter",
-  "F9220_Login_3": "Einloggen",
+  "F9220_Login_3": "Anmelden",
   "F9220_Signin_4": "Anmelden",
-  "F9220_Register_5": "Suchen",
-  "F9220_Searchal_6": "Suchen Sie unter allen Fotos",
+  "F9220_Register_5": "Suche",
+  "F9220_Searchal_6": "Suche in allen Fotos",
   "DEV_KEY": "Entwicklerwert",
   "F9220_Register_7": "Suchen",
   "F9220_dogs_8": "Hunde",
@@ -13,8 +13,9 @@
   "F9220_followja_11": "Folge Jane",
   "F9220_message_12": "Nachricht",
   "F9220_Browseal_13": "Alle durchsuchen",
-  "F9220_seemore_14": "Mehr anzeigen",
-  "F9220_return_15": "Rückkehr",
+  "F9220_seemore_14": "mehr anzeigen",
+  "F9220_return_15": "Zurück",
   "F9220_space_16": "Leertaste",
-  "F9220_return_17": "Zurückkehren"
+  "F9220_return_17": "Zurück",
+  "F9220_Browseal_18": "Alle durchsuchen"
 }
